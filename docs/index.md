@@ -2,7 +2,7 @@
 title: Curso Aprendizaje Automático Aplicado
 subtitle: Maestría en Ciencia de Datos, Universidad de Sonora
 layout: page
-hero_image: https://github.com/aaa-curso/ing-caract/raw/main/docs/img/ml-banner.jpeg
+hero_image: https://github.com/mcd-unison/aaa-curso/raw/main/docs/img/ml-banner.jpg
 hero_darken: true
 show_sidebar: false
 ---
