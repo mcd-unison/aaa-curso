@@ -15,6 +15,27 @@ show_sidebar: false
 |                 | Jueves y viernes, 3 horas autónomas        |
 | **Lugar**       | Virtual (Teams) y Sala de videoconferencias del DM|
 
+## Objetivos del curso
+
+El objetivo general de este curso es desarrollar en el estudiante las competencias necesarias para entender como aplicar 
+métodos cruciales de aprendizaje automático para resolver problemas, ejecutar evaluaciones e interpretar sus resultados.
+
+Los objetivos de este curso son:
+
+1. Conocer y entender la teoría básica que sustenta el aprendizaje supervisado.
+2. Conocer y saber cómo y en qué condiciones aplicar algoritmos de aprendizaje supervisado.
+3. Entender y seleccionar los criterios y las técnicas para la medición de la calidad de un algoritmo de aprendizaje supervisado.
+4. Conocer y saber aplicar diferentes algoritmos de aprendizaje no supervisado.
+5. Entender y aplicar filtros colaborativos para sistemas de recomendación.
+
+Las competencias que queremos ayudar a desarrollar en los estudiantes a lo largo del semestre son las siguientes:
+
+1. Utilizar las herramientas más populares en python para el desarrollo de modelos de aprendizaje supervisado en Ciencia de Datos.
+2. Saber decidir cual modelo de aprendizaje supervisado es el más adaptado para diferentes problemas y medir la calidad de éste.
+3. Entender y saber utilizar métodos de aprendizaje no supervisado para un proceso de minería de datos.
+4. Desarrollar un sistema de recomendación utilizando filtros colaborativos.
+
+
 ## Temario
 
 1. **Introducción**
@@ -51,7 +72,7 @@ y al mismo tiempo se generen una serie de evidencias de las competencias
 desarrolladas a lo largo del curso.
 
 
-![](https://github.com/mcd-unison/aaa-curso/raw/main/docs/img/datacamp.png)
+![](https://github.com/mcd-unison/aaa-curso/raw/main/docs/img/datacamp.jpg)
 
 
 Este curso tiene el soporte de [DataCamp](https://www.datacamp.com/) , una plataforma intuitiva para el aprendizaje de competencias para ciencia de datos.
