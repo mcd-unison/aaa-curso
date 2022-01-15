@@ -21,7 +21,7 @@ Ivo Jiménez y Julio Waissman
 ## Decidir si otorgar un crédito a un cliente
 
 - *Cliente*: edad, genero, estado civil, ingreso mensual, otros creditos, lugar donde vive, número de hijos, ...
-- *Salida esperada*: Si / No
+- *Salida esperada*: Sí / No
 
 ---
 
@@ -125,7 +125,7 @@ $$h_\theta: X \to Y$$
 
 y por cada $\theta$ diferente hay una función de un *conjunto de hipótesis*:
 
-$$\mathcal{H} = \{h_1, h_2, \ldots\} $$
+$$\mathcal{H} = \{h_\theta | \theta \in \Theta\} $$
 
 y el aprendizaje consiste en seleccionar un $h^* \in \mathcal{H}$
 
@@ -168,7 +168,7 @@ $$loss(f(x), h_\theta(x))$$
   $$loss(y,\hat{y}) = \frac{1}{2}(y - \hat{y})^2$$
 - MAE:  
   $$loss(y,\hat{y}) = |y - \hat{y}|$$
-- 0/1--loss: 
+- 0/1-loss: 
   $$loss(y,\hat{y})= 0 \text{ si } y = \hat{y}, \text{en otro caso } 1$$
 
 ---
