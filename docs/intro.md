@@ -10,8 +10,10 @@ show_sidebar: false
 
 ## Presentaciones
 
-1.[¿Qué es el aprendizaje automático?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/intro-curso.pptx) 
+1. [¿Qué es el aprendizaje automático?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/intro-curso.pptx) 
+
 2. [¿Qué es el aprendizaje supervisado?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/intro-supervisado.pdf)
+
 3. [Presentación *Is learning feasible?*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/is-learning-feasible.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
 
 ## Cursos cortos para realizar
