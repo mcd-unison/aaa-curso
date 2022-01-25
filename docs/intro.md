@@ -10,11 +10,17 @@ show_sidebar: false
 
 ## Presentaciones
 
-1.[¿Que es el aprendizaje automático?](https://github.com/mcd-unison/aaa-curso/raw/main/docs/slides/intro-curso.pptx) 
+1. [¿Qué es el aprendizaje automático?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/intro-curso.pptx) 
 
+2. [¿Qué es el aprendizaje supervisado?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/intro-supervisado.pdf)
+
+3. [Presentación *Is learning feasible?*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/is-learning-feasible.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
 
 ## Cursos cortos para realizar
 
+1. [Ethics in AI and Big Data](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS112x+1T2020/home). Curso de [EdX](https://www.edx.org) desarrollado por la *Linux Foundation*. El curso se encuentra de forma gratuita para los estudiantes de la Universidad de Sonora gracias al *Edx Campus*.
+
+2.  [Machine Learning for Data Science and Analytics](https://learning.edx.org/course/course-v1:ColumbiaX+DS102X+2T2021/home). Curso de [EdX](https://www.edx.org) desarrollado por la Universidad de Columbia. El curso se encuentra de forma gratuita para los estudiantes de la Universidad de Sonora gracias al *Edx Campus*. Se basa mucho en la comprensión de algoritmos.
 
 
 ## Libretas *jupyter*
