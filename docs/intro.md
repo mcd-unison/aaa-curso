@@ -25,6 +25,7 @@ show_sidebar: false
 
 ## Libretas *jupyter*
 
+1. [Regresión lineal](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/reg_lineal.ipynb)
 
 
 ## Lecturas y enlaces recomendados
