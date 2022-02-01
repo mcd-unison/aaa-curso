@@ -16,6 +16,8 @@ show_sidebar: false
 
 3. [Presentación *Is learning feasible?*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/is-learning-feasible.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
 
+4. [Presentación sobre generación de características (del curso de IA de Stanford)](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf)
+
 ## Cursos cortos para realizar
 
 1. [Ethics in AI and Big Data](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS112x+1T2020/home). Curso de [EdX](https://www.edx.org) desarrollado por la *Linux Foundation*. El curso se encuentra de forma gratuita para los estudiantes de la Universidad de Sonora gracias al *Edx Campus*.
