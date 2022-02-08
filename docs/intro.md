@@ -29,7 +29,7 @@ show_sidebar: false
 
 1. [Regresión lineal](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/reg_lineal.ipynb)
 2. [Regresión logística](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/reg_logistica.ipynb)
-
+3. [Regularización](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/regularizacion_logistica.ipynb)
 
 ## Lecturas y enlaces recomendados
 
