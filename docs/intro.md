@@ -18,6 +18,14 @@ show_sidebar: false
 
 4. [Presentación sobre generación de características (del curso de IA de Stanford)](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf)
 
+5. [Presentación sobre el *overfiting*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/overfiting.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
+
+6. [Presentación sobre regularización](https://github.com/mcd-unison/aaa-curso/raw/main/slides/regularizacion.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
+
+7. [Presentación sobre validación](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect13.pdf) de de [M. Magdon-Ismail](http://www.cs.rpi.edu/~magdon/)
+
+
+
 ## Cursos cortos para realizar
 
 1. [Ethics in AI and Big Data](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS112x+1T2020/home). Curso de [EdX](https://www.edx.org) desarrollado por la *Linux Foundation*. El curso se encuentra de forma gratuita para los estudiantes de la Universidad de Sonora gracias al *Edx Campus*.
