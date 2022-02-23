@@ -31,5 +31,5 @@ show_sidebar: false
 ## Maquinas de vectores de soporte
 
 1. [Una presentación bien viejita](https://github.com/mcd-unison/aaa-curso/raw/main/slides/svm_presentacion.pdf) pero que sigue estando decente.
-2. [Una entrada de medium](https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2) muy sencillita para exolicar la idea base de la regresión con máquinas de vectores de soporte.
+2. [Una entrada de medium](https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2) muy sencillita para explicar la idea base de la regresión con máquinas de vectores de soporte.
 3. 
