@@ -16,6 +16,7 @@ show_sidebar: false
 ## Libretas *jupyter*
 
 1. [Comparación de modelos de clasificación](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/plot_classifier_comparison.ipynb)
+2. [Una libreta sobre Naive Bayes](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb).
 
 
 ## Modelos lineales generalizados (GLM)
@@ -27,7 +28,7 @@ show_sidebar: false
 ## Otros modelos de aprendizaje
 
 1. K Vecinos próximos. [Una presentación de D. Sontag de la NYU](https://github.com/mcd-unison/aaa-curso/raw/main/slides/knn-ny.pdf) y [otra presentación de M Kang de la UNLV](https://mkang.faculty.unlv.edu/teaching/CS489_689/05.KNN.pdf)
-2. Naive bayes. [Una presentación de CMU](https://www.cs.cmu.edu/~10601b/slides/NBayes.pdf) y [otra de NYU, MIT-CSAIL](https://people.csail.mit.edu/dsontag/courses/ml12/slides/lecture17.pdf). [Una libreta sobre Naive Bayes](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb).
+2. Naive bayes. [Una presentación de CMU](https://www.cs.cmu.edu/~10601b/slides/NBayes.pdf) y [otra de NYU, MIT-CSAIL](https://people.csail.mit.edu/dsontag/courses/ml12/slides/lecture17.pdf). 
 
 ## Maquinas de vectores de soporte
 
