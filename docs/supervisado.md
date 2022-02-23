@@ -27,3 +27,9 @@ show_sidebar: false
 ## Otros modelos de aprendizaje
 
 1. K Vecinos próximos. [Una presentación de D. Sontag de la NYU](https://github.com/mcd-unison/aaa-curso/raw/main/slides/knn-ny.pdf) y [otra presentación de M Kang de la UNLV](https://mkang.faculty.unlv.edu/teaching/CS489_689/05.KNN.pdf)
+
+## Maquinas de vectores de soporte
+
+1. [Una presentación bien viejita](https://github.com/mcd-unison/aaa-curso/raw/main/slides/svm_presentacion.pdf) pero que sigue estando decente.
+2. [Una entrada de medium](https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2) muy sencillita para exolicar la idea base de la regresión con máquinas de vectores de soporte.
+3. 
