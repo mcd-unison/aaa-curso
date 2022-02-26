@@ -36,3 +36,4 @@ show_sidebar: false
 2. [Una entrada de medium](https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2) muy sencilla para explicar la idea base de la regresión con máquinas de vectores de soporte.
 3. Un tutorial muy completo sobre la teoría y los algoritmos de [regresión con máquinas de vectores de soporte](https://alex.smola.org/papers/2004/SmoSch04.pdf).
 4. Unas libretas de ejemplo para ejecutar en Kaggle. Un [tutorial de SVM para clasificación](https://www.kaggle.com/prashant111/svm-classifier-tutorial), [otro de múltiples clases, usando búsqueda exhaustiva sobre los valores de los parámetros](https://www.kaggle.com/pranathichunduru/svm-for-multiclass-classification/notebook). Por último [otro tutorial](https://www.kaggle.com/faressayah/support-vector-machine-pca-tutorial-for-beginner/notebook) que usa algunas de las bases de datos más usadas en los tutoriales y cursos de aprendizaje automático.
+
