@@ -38,3 +38,15 @@ show_sidebar: false
 3. Un tutorial muy completo sobre la teoría y los algoritmos de [regresión con máquinas de vectores de soporte](https://alex.smola.org/papers/2004/SmoSch04.pdf).
 4. Unas libretas de ejemplo para ejecutar en Kaggle. Un [tutorial de SVM para clasificación](https://www.kaggle.com/prashant111/svm-classifier-tutorial), [otro de múltiples clases, usando búsqueda exhaustiva sobre los valores de los parámetros](https://www.kaggle.com/pranathichunduru/svm-for-multiclass-classification/notebook). Por último [otro tutorial](https://www.kaggle.com/faressayah/support-vector-machine-pca-tutorial-for-beginner/notebook) que usa algunas de las bases de datos más usadas en los tutoriales y cursos de aprendizaje automático.
 
+## Redes neuronales (multicapa por el momento)
+
+1. [Una presentación sobre las nociones básicas de redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/neural-networks.pdf) así como el [importante algoritmo de *backpropagation*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/backpropagation.pdf).
+2. *Tensorflow*. [Una libreta en colab](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab1/Part1_TensorFlow.ipynb) de introducción a Tensorflow, de un curso del MIT.
+3. *pyTorch*. [Una libreta en microsoft learn](https://docs.microsoft.com/es-mx/learn/modules/intro-machine-learning-pytorch/2-tensors?WT.mc_id=aiml-7486-cxa) sobre tensores en *pyTorch* y sobre [diferenciación automática](https://docs.microsoft.com/es-mx/learn/modules/intro-machine-learning-pytorch/6-autograd?WT.mc_id=aiml-7486-cxa)
+
+## Árboles de decisión
+
+## Métodos de Ensembles
+
+
+
