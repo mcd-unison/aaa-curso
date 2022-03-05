@@ -44,9 +44,9 @@ show_sidebar: false
 2. *Tensorflow*. [Una libreta en colab](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab1/Part1_TensorFlow.ipynb) de introducción a Tensorflow, de un curso del MIT.
 3. *pyTorch*. [Una libreta en microsoft learn](https://docs.microsoft.com/es-mx/learn/modules/intro-machine-learning-pytorch/2-tensors?WT.mc_id=aiml-7486-cxa) sobre tensores en *pyTorch* y sobre [diferenciación automática](https://docs.microsoft.com/es-mx/learn/modules/intro-machine-learning-pytorch/6-autograd?WT.mc_id=aiml-7486-cxa)
 
-## Árboles de decisión
+## Árboles de decisión y métodos de Ensembles
 
-## Métodos de Ensembles
-
+1. [Presentación](https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf) de David Sontag (NYU) sobre árboles de desición y bósques aleatorios.
+2. [Un reporte de Quinlan](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.4267&rep=rep1&type=pdf) de 1986 con algunas técnicas para reducir el error en árboles de desición usando *post-poda*.
 
 
