@@ -48,7 +48,7 @@ show_sidebar: false
 
 1. [Presentación](https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf) de David Sontag (NYU) sobre árboles de decisión y bosques aleatorios.
 2. [Un reporte de Quinlan](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.4267&rep=rep1&type=pdf) de 1986 con algunas técnicas para reducir el error en árboles de decisión usando *post-poda*.
-3. [Presentación](https://scholar.princeton.edu/sites/default/files/bstewart/files/boosting.pdf) de J. Cohen (Princeton) sobre *boosting*, que cubre los métodos de *Adaboost* y *Gradient boosting trees*.
+3. [Presentación](https://scholar.princeton.edu/sites/default/files/bstewart/files/boosting.pdf) de J. Cohen (Princeton) sobre *boosting*, que cubre los métodos de *Adaboost* y *Gradient boosting trees*. Para el algoritmo de *Gradient Boostong* aqui dejamos una [presentación](https://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf) más clara de las ideas originales.
 4. La librería [XGboost](https://xgboost.readthedocs.io/en/stable/), la más utilizada para *Gradient Boosting*.
 5. Una [presentación](https://www.cs.ubc.ca/~lowe/425/slides/13-ViolaJones.pdf) del famoso algoritmo de Viola-Jones, y una [presentación](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2a[…]a-Jones%2520presentation.ppt&usg=AOvVaw0XtfrKMk_OnA9HawvyZ6vI) hecha por los autores del algoritmo.
 
