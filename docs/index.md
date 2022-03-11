@@ -8,12 +8,11 @@ show_sidebar: false
 ---
 
 
-| **Profesores**  | Ivo Jiménez (ivo.jimenez@unison.mx)        | 
-|                 | Julio Waissman (julio.waissman@unison.mx)  |
+| **Profesor**    | Julio Waissman (julio.waissman@unison.mx)  |
 | **Horarios**    | Martes de 18:00 a 20:00 hrs                |
 |                 | Sábados de 10:00 a 12:00                   |
 |                 | Jueves y viernes, 3 horas autónomas        |
-| **Lugar**       | Virtual (Teams) y Sala de videoconferencias del DM|
+| **Lugar**       | Sala de videoconferencias del DM y virtual (Teams)|
 
 ## Objetivos del curso
 
