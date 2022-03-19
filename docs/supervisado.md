@@ -48,6 +48,7 @@ show_sidebar: false
 5. [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) por Andrej Karpathy.
 5. El libro [Deep Learning](https://www.deeplearningbook.org) de Ian Goodfellow, Yoshua Bengio y Aaron Courville gratuito en linea con material adicional.
 6. Una presentación sobre [redes convolucionales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/convolucionales.pdf) y un [ejemplo en colab del `hola mundo` de las redes neuronales](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab2/Part1_MNIST.ipynb).
+7. Una presentación sobre [transferencia del aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pptx) (tambien [en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pdf)).
 
 ## Árboles de decisión y métodos de Ensembles
 
