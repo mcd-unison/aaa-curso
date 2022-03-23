@@ -45,10 +45,11 @@ show_sidebar: false
 2. *Tensorflow*. [Una libreta en colab](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab1/Part1_TensorFlow.ipynb) de introducción a Tensorflow, de un curso del MIT.
 3. *pyTorch*. [Una libreta en microsoft learn](https://docs.microsoft.com/es-mx/learn/modules/intro-machine-learning-pytorch/2-tensors?WT.mc_id=aiml-7486-cxa) sobre tensores en *pyTorch* y sobre [diferenciación automática](https://docs.microsoft.com/es-mx/learn/modules/intro-machine-learning-pytorch/6-autograd?WT.mc_id=aiml-7486-cxa).
 4. Un [excelente curso](http://introtodeeplearning.com) de introducción al aprendizaje profundo del MIT con videos. transparencias y código.
-5. [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) por Andrej Karpathy.
-5. El libro [Deep Learning](https://www.deeplearningbook.org) de Ian Goodfellow, Yoshua Bengio y Aaron Courville gratuito en linea con material adicional.
-6. Una presentación sobre [redes convolucionales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/convolucionales.pdf) y un [ejemplo en colab del `hola mundo` de las redes neuronales](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab2/Part1_MNIST.ipynb).
-7. Una presentación sobre [transferencia del aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pptx) (tambien [en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pdf)).
+5. [*An overview of gradient descent optimization algorithms*](https://ruder.io/optimizing-gradient-descent/index.html) de Sebastian Ruder.
+6. [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) por Andrej Karpathy.
+7. El libro [Deep Learning](https://www.deeplearningbook.org) de Ian Goodfellow, Yoshua Bengio y Aaron Courville gratuito en linea con material adicional.
+8. Una presentación sobre [redes convolucionales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/convolucionales.pdf) y un [ejemplo en colab del `hola mundo` de las redes neuronales](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab2/Part1_MNIST.ipynb).
+9. Una presentación sobre [transferencia del aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pptx) (tambien [en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pdf)).
 
 ## Árboles de decisión y métodos de Ensembles
 
@@ -57,7 +58,3 @@ show_sidebar: false
 3. [Presentación](https://scholar.princeton.edu/sites/default/files/bstewart/files/boosting.pdf) de J. Cohen (Princeton) sobre *boosting*, que cubre los métodos de *Adaboost* y *Gradient boosting trees*. Para el algoritmo de *Gradient Boostong* aqui dejamos una [presentación](https://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf) más clara de las ideas originales.
 4. La librería [XGboost](https://xgboost.readthedocs.io/en/stable/), la más utilizada para *Gradient Boosting*.
 5. Una [presentación](https://www.cs.ubc.ca/~lowe/425/slides/13-ViolaJones.pdf) del famoso algoritmo de Viola-Jones, y una [presentación](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2a[…]a-Jones%2520presentation.ppt&usg=AOvVaw0XtfrKMk_OnA9HawvyZ6vI) hecha por los autores del algoritmo.
-
-
-
-
