@@ -5,22 +5,18 @@
       link: /intro/
     - name: Métodos de aprendizaje supervisado
       link: /supervisado/
-    - name: Evaluación de la calidad de un modelo de aprendizaje supervisado
-      link: /evaluacion/
     - name: Métodos de aprendizaje no supervisado
       link: /nosupervisado/
-    - name: Transformación de datos
-      link: /transforma/
-    - name: Sistemas de recomendación
-      link: /recomendacion/
+    - name: Series de tiempo
+      link: /series/
+    - name: Proyectos de aprendizaje automático (MLOps)
+      link: /mlops/
 - name: Proyectos
   link: /#
   dropdown:
-    - name: Aplicación de métodos de clasificación 
+    - name: Proyecto equipo 1 
       link: /proyecto1/
-    - name: Aplicación de métodos de regresión 
+    - name: Proyecto equipo 2 
       link: /proyecto2/
-    - name: Aplicación de métodos de aprendizaje no supervisado 
+    - name: Proyecto equipo 3 
       link: /proyecto3/
-    - name: Un sistema de recomendación 
-      link: /proyecto4/

@@ -43,25 +43,25 @@ Las competencias que queremos ayudar a desarrollar en los estudiantes a lo largo
    3. Un ejemplo: regresión lineal y logística
    4. El dilema de sesgo *versus* varianza
    5. Regularización 
+   6. Validación 
+   7. Medición de error
+   8. Curvas de aprendizaje
 2. **Métodos de aprendizaje supervisado**
    1. Modelos lineales generalizados
    2. Máquinas de vectores de soporte
    3. Modelos por árboles de decisión
    4. Modelos de *ensamble*
    5. Redes neuronales
-3. **Evaluación de la calidad de un modelo de aprendizaje supervisado**
-   1. Validación 
-   2. Medición de error
-   3. Umbral de decisión y curvas ROC
-   4. Curvas de aprendizaje
-   5. Ajuste de hiperparámetros
-4. **Aprendizaje no-supervisado**
+3. **Aprendizaje no-supervisado**
    1. Reagrupamiento aglomerativo
    2. Reagrupamiento jerárquico
    3. Reducción de la dimensionalidad
-5. **Sistemas de recomendación**
-   1. Recomendación basada en usuario y basada en items
-   2. Filtros colaborativos
+4. **Series de tiempo**
+   1. Nociones básicas
+   2. Métodos estáticos
+   3. Redes neuronales recurrentes
+5. **MLOps**
+   1. *En construcción*
 
 ## Herramientas de enseñanza
 
