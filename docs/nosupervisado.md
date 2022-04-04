@@ -7,14 +7,15 @@ hero_darken: true
 show_sidebar: false
 ---
 
-## Reagrupamiento aglomerativo
+## Presentaciones
 
-1. Una presentación viejita pero bonita sobre el método de las K-medias
-2. Mezcla de gaussianas como generalización del método de K-medias
-3. El método DBSCAN de aprendizaje no supervisado
+1. [Una presentación general](https://www.mit.edu/~9.54/fall14/slides/Class13.pdf) de Ullman y colaboradores para un curso del MIT.
+   
+2. [Una presentación de 3 algoritmos clásicos de aprendizaje no supervizado](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect19.pdf) de M. Magdon-Ismail.
+   
+3. [La nueva prespectiva de aprendizaje no supervisado desde el punto de vista de las redes nueronales](https://media.neurips.cc/Conferences/NIPS2018/Slides/Deep_Unsupervised_Learning.pdf) a partir de un tutorial presentado en la prestigiosa conferencia NIPS del 2018.
+   
+## Libretas Jupyter
 
-## Reagrupamiento jerárquico
+1. 
 
-1. Métodos jerarquicos
-
-## Mediciones de calidad de aprendizaje no supervisado
