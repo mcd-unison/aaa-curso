@@ -9,6 +9,8 @@ show_sidebar: false
 
 ## Presentaciones
 
+1. [Una modesta presentación sobre análisis aglomerativo](https://github.com/mcd-unison/aaa-curso/raw/main/slides/clustering.pptx) que hice yo y me quedo medio feyuya.
+
 1. [Una presentación general](https://www.mit.edu/~9.54/fall14/slides/Class13.pdf) de Ullman y colaboradores para un curso del MIT.
    
 2. [Una presentación de 3 algoritmos clásicos de aprendizaje no supervizado](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect19.pdf) de M. Magdon-Ismail.
