@@ -19,5 +19,11 @@ show_sidebar: false
    
 ## Libretas Jupyter
 
-1. 
+1. [Libreta sobre el uso de aprendizaje no supervisado en reconocimiento de rostros](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab2/Part2_Debiasing.ipynb)
+
+
+## Lecturas adicionales
+
+1. [A Step-by-Step NLP Guide to Learn ELMo for Extracting Features from Text](https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/)
+2. [Generating new faces with Variational Autoencoders](https://towardsdatascience.com/generating-new-faces-with-variational-autoencoders-d13cfcb5f0a8)
 
