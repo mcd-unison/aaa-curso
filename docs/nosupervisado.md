@@ -24,6 +24,6 @@ show_sidebar: false
 
 ## Lecturas adicionales
 
-1. [A Step-by-Step NLP Guide to Learn ELMo for Extracting Features from Text](https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/)
+1. [Word Embeddings (Algorithms for NLP)](http://demo.clab.cs.cmu.edu/11711fa18/slides/FA18%2011-711%20lecture%206%20--%20Word%20Embeddings%202.pdf)
 2. [Generating new faces with Variational Autoencoders](https://towardsdatascience.com/generating-new-faces-with-variational-autoencoders-d13cfcb5f0a8)
 
