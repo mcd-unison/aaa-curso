@@ -7,10 +7,10 @@
       link: /supervisado/
     - name: Métodos de aprendizaje no supervisado
       link: /nosupervisado/
-    - name: Series de tiempo
-      link: /series/
     - name: Proyectos de aprendizaje automático (MLOps)
       link: /mlops/
+    - name: Series de tiempo
+      link: /series/
 - name: Proyectos
   link: /#
   dropdown:
