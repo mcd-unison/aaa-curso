@@ -9,9 +9,11 @@ show_sidebar: false
 
 ## Presentaciones
 
-## Libretas, scripts y tutoriales
-
 1. [Introducción a las MLOps](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-intro.pdf)
+2. [Preprocesamiento de datos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops-preprocesamiento.pdf)
+3. [Selección de modelos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops-seleccion.pdf)
+
+## Libretas, scripts y tutoriales
 
 ## Herramientas para MLOps
 
