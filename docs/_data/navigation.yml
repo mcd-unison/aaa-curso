@@ -11,12 +11,16 @@
       link: /mlops/
     - name: Series de tiempo
       link: /series/
-- name: Proyectos
+- name: Proyecto
   link: /#
   dropdown:
+    - name: Descripción del proyecto 
+      link: /proyecto1/
     - name: Proyecto equipo 1 
       link: /proyecto1/
     - name: Proyecto equipo 2 
       link: /proyecto2/
     - name: Proyecto equipo 3 
       link: /proyecto3/
+    - name: Evidencias 
+      link: /medium/
