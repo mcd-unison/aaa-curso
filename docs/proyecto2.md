@@ -9,11 +9,11 @@ show_sidebar: false
 
 ## Miembros del equipo
 
-1. Adrian
-2. Carlos
-3. Ibsan 
-4. Pedro
-5. Samuel
+1. Aarón
+2. Daniel 
+3. Manuel
+4. Martha
+5. Paola
 
 ## Página y github del proyecto (privada)
 

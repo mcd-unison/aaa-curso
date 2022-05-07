@@ -7,4 +7,20 @@ hero_darken: true
 show_sidebar: false
 ---
 
-
+| Estudiante | Curso Ética en IA (EdX) | Curso ML Columbia (EdX) | Certificado DataCamp | Medium |
+| ---------- | ----------------------- | ----------------------- | -------------------- |
+| Aarón      |                         |                         |                      |        |
+| Adilene    |                         |                         |                      |        |
+| Adrian     |                         |                         |                      |        |
+| Benjamín   |                         |                         |                      |        |
+| Carlos     |                         |                         |                      |        |
+| Daniel     |                         |                         |                      |        |
+| Hector     |                         |                         |                      |        |
+| Hugo       |                         |                         |                      |        |
+| Ibsan      |                         |                         |                      |        |
+| José Luís  |                         |                         |                      |        |
+| Manuel     |                         |                         |                      |        |
+| Martha     |                         |                         |                      |        |
+| Paola      |                         |                         |                      |        |
+| Pedro      |                         |                         |                      |        |
+| Samuel     |                         |                         |                      |        |
