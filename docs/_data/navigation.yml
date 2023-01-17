@@ -3,24 +3,27 @@
   dropdown:
     - name: Introducción 
       link: /intro/
-    - name: Métodos de aprendizaje supervisado
-      link: /supervisado/
-    - name: Métodos de aprendizaje no supervisado
-      link: /nosupervisado/
-    - name: Proyectos de aprendizaje automático (MLOps)
+    - name: Modelos lineales de aprendizaje supervisado
+      link: /lineales/
+    - name: Modelos no lineales de aprendizaje supervisado
+      link: /nolineales/
+    - name: Redes neuronales
+      link: /rn/
+    - name: Operaciones de aprendizaje máquina (MLOps)
       link: /mlops/
+    - name: Aprendizaje no supervisado
+      link: /nosupervisado/
     - name: Series de tiempo
-      link: /series/
-- name: Proyecto
+      link: /ts/
+- name: Proyectos
   link: /#
   dropdown:
-    - name: Descripción del proyecto 
+    - name: Mi primer modelo de aprendizaje 
       link: /proyecto-d/
-    - name: Proyecto equipo 1 
+    - name: Modelos de aprendizaje 
       link: /proyecto1/
-    - name: Proyecto equipo 2 
+    - name: Redes neuronales 
       link: /proyecto2/
-    - name: Proyecto equipo 3 
+    - name: Proyecto integrador 
       link: /proyecto3/
-    - name: Evidencias 
-      link: /medium/
+      
