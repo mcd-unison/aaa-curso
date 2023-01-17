@@ -14,6 +14,7 @@ show_sidebar: false
 
 2. [¿Qué es el aprendizaje supervisado?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/intro-supervisado.pdf)
 
+
 3. [Presentación *Is learning feasible?*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/is-learning-feasible.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
 
 4. [Presentación sobre generación de características (del curso de IA de Stanford)](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf)
@@ -24,20 +25,18 @@ show_sidebar: false
 
 7. [Presentación sobre validación](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect13.pdf) de de [M. Magdon-Ismail](http://www.cs.rpi.edu/~magdon/)
 
+8. [Introducción a las MLOps](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-intro.pdf)
 
 
-## Cursos cortos para realizar
+## Módulos y librerías para Aprendizaje automático
 
-1. [Ethics in AI and Big Data](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS112x+1T2020/home). Curso de [EdX](https://www.edx.org) desarrollado por la *Linux Foundation*. El curso se encuentra de forma gratuita para los estudiantes de la Universidad de Sonora gracias al *Edx Campus*.
-
-2.  [Machine Learning for Data Science and Analytics](https://learning.edx.org/course/course-v1:ColumbiaX+DS102X+2T2021/home). Curso de [EdX](https://www.edx.org) desarrollado por la Universidad de Columbia. El curso se encuentra de forma gratuita para los estudiantes de la Universidad de Sonora gracias al *Edx Campus*. Se basa mucho en la comprensión de algoritmos.
+1. **Python**. Empezando por [*sci-kit learn*](https://scikit-learn.org/), la librería más utilizada (por mucho). Para grandes cantidades de datos [pyspark](https://spark.apache.org/docs/latest/api/python/index.html) incluye el módulo `MLlib` para flujos de aprendizaje automático. Y por último, el nuevo muchacho en el barrio: [pycaret](https://pycaret.org), que ha tenido un crecimiento importante recientemente. 
+2. **R**. Una gran cantidad de paquetes de aprendizaje se encuentran reunidos en el *metapaquete* [caret](https://topepo.github.io/caret/index.html), el primer lugar a consultar para hacer ML en R.
 
 
 ## Libretas *jupyter*
 
-1. [Regresión lineal](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/reg_lineal.ipynb)
-2. [Regresión logística](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/reg_logistica.ipynb)
-3. [Regularización](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/regularizacion_logistica.ipynb)
+1. [Comparación de modelos de clasificación](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/plot_classifier_comparison.ipynb)
 
 ## Lecturas y enlaces recomendados
 
@@ -75,3 +74,9 @@ show_sidebar: false
     5. Ejemplos de libretas útiles
     
 2. [UCI database repository](https://archive.ics.uci.edu/ml/index.php) Es el sitio más clásico (venerable y feo, por cierto) de conjuntos de datos para tareas de Aprendizaje Automñatico. Es un poco complicada la navegación y entender la organización de los datos, pero es realmente un muy buen sitio para escoger problemas a resolver.
+
+## Actividades de aprendizaje a realizar
+
+1. [Ethics in AI and Data Science](https://enterprise.edx.org/uni-sonora/course/LinuxFoundationX+LFS112x?). Curso de [EdX](https://www.edx.org) desarrollado por la *Linux Foundation*. El curso se encuentra de forma gratuita para los estudiantes de la Universidad de Sonora gracias al *Edx Campus*.
+
+2.  [Build your first Machine Learning Pipeline using Dataiku](https://www.coursera.org/programs/universidad-de-sonora-on-coursera-ggm7m/data-science/all-data-science?productId=zQEpc78BEeuDZhJOHjRP6Q&productType=course&showMiniModal=true&source=browse). Curso de [Coursera Project Network de la Universdad de Sonora](https://www.coursera.org/programs/universidad-de-sonora-on-coursera-ggm7m/?currentTab=CATALOG) donde exploramos el 

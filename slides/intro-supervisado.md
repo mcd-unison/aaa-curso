@@ -6,13 +6,13 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
-![bg left:40% 40%](https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png)
+![bg left:40% 40%](logo_mcd.png)
 
 # **¿Que es el aprendizaje supervisado?**
 
 Curso Aprendizaje Automático Aplicado
 
-Ivo Jiménez y Julio Waissman
+Julio Waissman
 
 ---
 
@@ -77,7 +77,7 @@ desconocida.
 
 Del conjunto de todas las posibles instancias $X$, tenemos una muestra
 
-$$ X_T \subset X$$
+$$X_T \subset X$$
 $$X_T = \{x^{(1)},x^{(2)}, \ldots, x^{(M)}\}$$
 
 los cuales provienen de un muestreo con distribución desconocida.
@@ -117,11 +117,12 @@ que significa que
 $$h_{\theta^*}(x) \approx f(x), \quad \forall x \in X$$
 
 ---
+
 # Conjunto de hipótesis
 
 Notese que si $\theta$ es fija (constante), entonces
 
-$$h_\theta: X \to Y$$
+$$ h_{\theta}: X \to Y $$
 
 y por cada $\theta$ diferente hay una función de un *conjunto de hipótesis*:
 
