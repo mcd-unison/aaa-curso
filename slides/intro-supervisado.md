@@ -227,4 +227,21 @@ $$
 *Aprendizaje Probablemente Aproximadamente Correcto (PAC Learning)*
 
 
+---
+
+# Desigualdad de Hoeffding
+
+$$\Pr[|E_o - E_i| \geq \epsilon] \leq \exp(-2 \epsilon^2 N)$$
+
+donde $M$ es el número de datos y $\epsilon$ la diferencia entre el error en muestra y el error fuera de muestra impuesto.
+
+**Entonces, el planteamiento $E_o \approx E_i$ es PAC**
+
+---
+
+# ¿Algún problema con la desigualdad de Hoeffding?
+
+- Si lanzo una moneda 10 veces, ¿Cual es la probabilidad de obtener águila las 10 veces?
+
+- Si 1000 personas lanzan una moneda 10 veces, ¿Cual es la probabilidad que *alguna* de las personas obtengan águila las 10 veces?
 
