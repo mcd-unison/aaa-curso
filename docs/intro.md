@@ -14,6 +14,8 @@ show_sidebar: false
 
 2. [¿Qué es el aprendizaje supervisado?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/intro-supervisado.pdf)
 
+3. [¿En que sentido el aprendizaje supervisado es posible?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/generalizacion.pdf)
+
 
 3. [Presentación *Is learning feasible?*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/is-learning-feasible.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
 
