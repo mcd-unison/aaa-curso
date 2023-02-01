@@ -16,24 +16,24 @@ show_sidebar: false
 
 3. [¿En que sentido el aprendizaje supervisado es posible?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/generalizacion.pdf)
 
-4. [Mi primer modelo de aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ejemplo_modelo.pdf)
+4. [Mi primer modelo de aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ejemplo_modelo.pdf) y como saber si mi modelo está bien usando diferentes métricas como [coeficiente de determinación](https://en.wikipedia.org/wiki/Coefficient_of_determination), [matrices de confusión](https://en.wikipedia.org/wiki/Confusion_matrix) o [la curva ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 
-5. [Presentación *Is learning feasible?*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/is-learning-feasible.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
 
-6. [Presentación sobre generación de características (del curso de IA de Stanford)](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf)
+5. [Presentación sobre generación de características (del curso de IA de Stanford)](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf)
 
-7. [Presentación sobre el *overfiting*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/overfiting.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
+6. [Presentación sobre el *overfiting*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/overfiting.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
 
-8. [Presentación sobre regularización](https://github.com/mcd-unison/aaa-curso/raw/main/slides/regularizacion.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
+7. [Presentación sobre regularización](https://github.com/mcd-unison/aaa-curso/raw/main/slides/regularizacion.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
 
-9. [Presentación sobre validación](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect13.pdf) de de [M. Magdon-Ismail](http://www.cs.rpi.edu/~magdon/)
+8. [Presentación sobre validación](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect13.pdf) de de [M. Magdon-Ismail](http://www.cs.rpi.edu/~magdon/)
 
-10. [Introducción a las MLOps](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-intro.pdf)
+9.  [Introducción a las MLOps](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-intro.pdf)
 
 
 ## Módulos y librerías para Aprendizaje automático
 
 1. **Python**. Empezando por [*sci-kit learn*](https://scikit-learn.org/), la librería más utilizada (por mucho). Para grandes cantidades de datos [pyspark](https://spark.apache.org/docs/latest/api/python/index.html) incluye el módulo `MLlib` para flujos de aprendizaje automático. Y por último, el nuevo muchacho en el barrio: [pycaret](https://pycaret.org), que ha tenido un crecimiento importante recientemente. 
+   
 2. **R**. Una gran cantidad de paquetes de aprendizaje se encuentran reunidos en el *metapaquete* [caret](https://topepo.github.io/caret/index.html), el primer lugar a consultar para hacer ML en R.
 
 
@@ -83,3 +83,5 @@ show_sidebar: false
 1. [Ethics in AI and Data Science](https://enterprise.edx.org/uni-sonora/course/LinuxFoundationX+LFS112x?). Curso de [EdX](https://www.edx.org) desarrollado por la *Linux Foundation*. El curso se encuentra de forma gratuita para los estudiantes de la Universidad de Sonora gracias al *Edx Campus*.
 
 2.  [Build your first Machine Learning Pipeline using Dataiku](https://www.coursera.org/programs/universidad-de-sonora-on-coursera-ggm7m/data-science/all-data-science?productId=zQEpc78BEeuDZhJOHjRP6Q&productType=course&showMiniModal=true&source=browse). Curso de [Coursera Project Network de la Universdad de Sonora](https://www.coursera.org/programs/universidad-de-sonora-on-coursera-ggm7m/?currentTab=CATALOG) donde exploramos el 
+
+3. [Machine learning with scikit-learn](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/). Curso de [DataCamp](http://datacamp.com/).
