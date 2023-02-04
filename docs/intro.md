@@ -21,11 +21,11 @@ show_sidebar: false
 
 5. [Presentación sobre generación de características (del curso de IA de Stanford)](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf)
 
-6. [Presentación sobre el *overfiting*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/overfiting.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
+6. [Presentación sobre el *overfiting*](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect11.pdf) de [M. Magdon-Ismail](http://www.cs.rpi.edu/~magdon/)
 
-7. [Presentación sobre regularización](https://github.com/mcd-unison/aaa-curso/raw/main/slides/regularizacion.pdf) de de [Yaser S.Abu-Mostafa](https://work.caltech.edu)
+7. [Presentación sobre regularización](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect12.pdf) de [M. Magdon-Ismail](http://www.cs.rpi.edu/~magdon/)
 
-8. [Presentación sobre validación](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect13.pdf) de de [M. Magdon-Ismail](http://www.cs.rpi.edu/~magdon/)
+8. [Presentación sobre validación](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect13.pdf) de [M. Magdon-Ismail](http://www.cs.rpi.edu/~magdon/)
 
 9.  [Introducción a las MLOps](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-intro.pdf)
 
