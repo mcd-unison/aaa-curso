@@ -27,7 +27,7 @@ show_sidebar: false
 
 1. [Una presentación sobre las nociones básicas de redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/neural-networks.pdf) así como el [importante algoritmo de *backpropagation*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/backpropagation.pdf). Tambien un [video muy bueno](https://www.youtube.com/watch?v=eNIqz_noix8&t=1s) sobre +b-prop* hecho por *Dot CSV* un youtuber muy recomendable que habla sobre redes neuronales profundas.
    
-2. [*An overview of gradient descent optimization algorithms*](https://ruder.io/optimizing-gradient-descent/index.html) de Sebastian Ruder.
+2. [*An overview of gradient descent optimization algorithms*](https://www.ruder.io/optimizing-gradient-descent/) de Sebastian Ruder.
    
 3. [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) por Andrej Karpathy.
    

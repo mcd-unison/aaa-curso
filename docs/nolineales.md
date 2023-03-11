@@ -22,7 +22,7 @@ show_sidebar: false
 
 3. Una [presentación](https://www.cs.ubc.ca/~lowe/425/slides/13-ViolaJones.pdf) del famoso algoritmo de Viola-Jones, y una [presentación](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2a[…]a-Jones%2520presentation.ppt&usg=AOvVaw0XtfrKMk_OnA9HawvyZ6vI) hecha por los autores del algoritmo.
    
-4. El [artículo original](https://github.com/mcd-unison/aaa-curso/raw/main/pdf/grad_boost_original.pdf) sobre *gradient boosting, y un artículo más reciente sobre la teoría y la práctica [de este tipo de algoritmos de *ensemble*](https://github.com/mcd-unison/aaa-curso/raw/main/pdf/boosting_TyA.pdf)
+4. El [artículo original](https://github.com/mcd-unison/aaa-curso/raw/main/pdf/grad_boost_original.pdf) sobre *gradient boosting*, y un artículo más reciente sobre la teoría y la práctica [de este tipo de algoritmos de *ensemble*](https://github.com/mcd-unison/aaa-curso/raw/main/pdf/boosting_TyA.pdf)
    
 ## Otros modelos de aprendizaje
 
