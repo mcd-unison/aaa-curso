@@ -35,8 +35,10 @@ show_sidebar: false
 ## Redes Convolucionales
 
 1. Una presentación sobre [redes convolucionales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/convolucionales.pdf) y un [ejemplo en colab del `hola mundo` de las redes neuronales](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab2/Part1_MNIST.ipynb).
-   
-2. Una presentación sobre [transferencia del aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pptx) (tambien [en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pdf)) y [una libreta para jugar con modelos preentrenados](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/transfer.ipynb)
+
+2. Una [muy buena presentación del curso del MIT](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L3.pdf) sobre CNN para visión por computadora, así como [un ejercicio en colab de *autocodificadores variacionales*](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/2023/lab2/Part2_FaceDetection.ipynb), basado en [éste artículo de ellos mismos](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf).
+
+3. Una presentación sobre [transferencia del aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pptx) (tambien [en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pdf)) y [una libreta para jugar con modelos preentrenados](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/transfer.ipynb)
 
 ## Algunas libretas con ejemplos
 
