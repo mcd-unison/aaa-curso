@@ -18,12 +18,6 @@
 - name: Proyectos
   link: /#
   dropdown:
-    - name: Mi primer modelo de aprendizaje 
-      link: /proyecto-d/
-    - name: Modelos de aprendizaje 
-      link: /proyecto1/
-    - name: Redes neuronales 
-      link: /proyecto2/
     - name: Proyecto integrador 
-      link: /proyecto3/
+      link: /proyecto-integrador/
       
