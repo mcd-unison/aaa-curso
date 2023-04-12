@@ -40,6 +40,8 @@ show_sidebar: false
 
 3. Una presentación sobre [transferencia del aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pptx) (tambien [en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pdf)) y [una libreta para jugar con modelos preentrenados](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/transfer.ipynb)
 
+4. Un [recurso](https://arxiv.org/abs/2303.17580) que vale la pena darle una ojeada y ver que se puede replicar. ¿Funcionará en español? Aquí [la liga a el sistema](https://huggingface.co/spaces/microsoft/HuggingGPT), solo se necesita estar registrado en *OpenAI* y en *HF Spaces*.
+
 ## Algunas libretas con ejemplos
 
 1. [Una libreta en colab](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab1/Part1_TensorFlow.ipynb) de introducción a Tensorflow, de un curso del MIT.
