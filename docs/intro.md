@@ -58,7 +58,7 @@ show_sidebar: false
 3. [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) el cual se encuentra en la biblioteca de la DCEN y la biblioteca digital. Una buena introducción (no sencilla) a la teoría del aprendizaje y las SVM.
 
 
-4. [Hands-On machine learning with scikit-learn and tensorflow : concepts, tools, and techniques to build intelligent systems](http://www.bibliotecas.uson.mx/sib_acervodet.aspx?bib=15&c1=Titulo&c2=Titulo&t1=Hands-On%20machine%20learning%20with%20scikit-learn%20and%20tensorflow&t2=&cat=) es un texto muy aplicado, con mucho código y poca teoría. Es mi recomendación para buscar como hacer prácticamente cosas y no te gusta buscarlas en internet. Aquí dejo una liga con [libretas jupyter con los ejemplos del libro](https://github.com/ageron/handson-ml)
+4. [Hands-On machine learning with scikit-learn and tensorflow : concepts, tools, and techniques to build intelligent systems](http://www.bibliotecas.uson.mx/sib_acervodet.aspx?bib=15&c1=Titulo&c2=Titulo&t1=Hands-On%20machine%20learning%20with%20scikit-learn%20and%20tensorflow&t2=&cat=) es un texto muy aplicado, con mucho código y poca teoría. Es mi recomendación para buscar como hacer prácticamente cosas y no te gusta buscarlas en internet. Aquí dejo una liga con [libretas jupyter con los ejemplos del libro](https://github.com/ageron/handson-ml3)
 
 5. Los [Tópicos de ML en Medium](https://medium.com/topic/machine-learning) es un buen lugar para buscar artículos de divulgación y/o tutoriales bastante claros sobre diferentes técnicas de ML. Me parece que sin subscripción, tiene uno limitado el número de artículos a leer por día en Medium.
   
