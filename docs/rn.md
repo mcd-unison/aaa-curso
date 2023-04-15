@@ -23,6 +23,8 @@ show_sidebar: false
 
 7. Otras compañías con recursos en código abierto, modelos preentrenados, librerías y *frameworks* que vale la pena estar revisando son [OpenAI](https://openai.com) (cada vez menos abierta y cada vez más *for profit*), [Meta AI](https://ai.facebook.com), ahora ya con licencias tipo MIT, y [Google Research](https://research.google).
 
+8. El artículo [*GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models*](https://arxiv.org/abs/2303.10130) con una visión para pensar del futuro del trabajo con las implicaciones de los LLM en la vida diaria.
+
 ## Redes neuronales: nociones básicas 
 
 1. [Una presentación sobre las nociones básicas de redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/neural-networks.pdf) así como el [importante algoritmo de *backpropagation*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/backpropagation.pdf). Tambien un [video muy bueno](https://www.youtube.com/watch?v=eNIqz_noix8&t=1s) sobre +b-prop* hecho por *Dot CSV* un youtuber muy recomendable que habla sobre redes neuronales profundas.

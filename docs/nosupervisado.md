@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Presentaciones
 
-1. [Una modesta presentación sobre análisis aglomerativo](https://github.com/mcd-unison/aaa-curso/raw/main/slides/clustering.pptx) que hice yo y me quedo medio feyuya.
+1. [Una modesta presentación sobre análisis aglomerativo](https://github.com/mcd-unison/aaa-curso/raw/main/slides/clustering.pdf) que hice yo y me quedo medio feyuya.
 
 1. [Una presentación general](https://www.mit.edu/~9.54/fall14/slides/Class13.pdf) de Ullman y colaboradores para un curso del MIT.
    
@@ -19,11 +19,11 @@ show_sidebar: false
    
 ## Libretas Jupyter
 
-1. [Libreta sobre el uso de aprendizaje no supervisado en reconocimiento de rostros](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab2/Part2_Debiasing.ipynb)
+1. [Una libreta muy completa sobre el uso y aplicación de varios algoritmos de clustering incluidos en *scikit-learn*](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/09_unsupervised_learning.ipynb). Le dedica mucho espacio a explicar todos los pasos de las *K-medias* y sus variantes, pero es muy claro y muy completo.
 
 
 ## Lecturas adicionales
 
 1. [Word Embeddings (Algorithms for NLP)](http://demo.clab.cs.cmu.edu/11711fa18/slides/FA18%2011-711%20lecture%206%20--%20Word%20Embeddings%202.pdf)
-2. [Generating new faces with Variational Autoencoders](https://towardsdatascience.com/generating-new-faces-with-variational-autoencoders-d13cfcb5f0a8)
-
+2. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+3. [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
