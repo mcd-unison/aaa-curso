@@ -9,10 +9,10 @@
       link: /nolineales/
     - name: Redes neuronales
       link: /rn/
-    - name: Operaciones de aprendizaje máquina (MLOps)
-      link: /mlops/
     - name: Aprendizaje no supervisado
       link: /nosupervisado/
+    - name: Operaciones de aprendizaje máquina (MLOps)
+      link: /mlops/
     - name: Series de tiempo
       link: /ts/
 - name: Proyectos
