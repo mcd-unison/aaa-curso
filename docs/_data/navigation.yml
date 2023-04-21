@@ -13,6 +13,8 @@
       link: /nosupervisado/
     - name: Operaciones de aprendizaje máquina (MLOps)
       link: /mlops/
+    - name: Explicabilidad de modelos
+      link: /explain/
     - name: Series de tiempo
       link: /ts/
 - name: Proyectos
