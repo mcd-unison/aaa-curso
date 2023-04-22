@@ -9,6 +9,8 @@ show_sidebar: false
 
 ## Presentaciones
 
+1. Empecemos por [esta entrada de blog](https://www.mihaileric.com/posts/mlops-is-a-mess/) que posiciona las *MLOps* de forma sencilla y amena.
+
 1. [Introducción a las MLOps](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-intro.pdf)
    
 2. [Preprocesamiento de datos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops-preprocesamiento.pdf)
@@ -24,7 +26,6 @@ show_sidebar: false
 7. [Infraestructura y plataformas](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-infraestructura.pdf)
 
 
-
 ## Libretas, scripts y tutoriales
 
 1. [Made with ML](https://madewithml.com). Un curso muy interesante con una prespectiva industrial del aprendizaje automático. Mucho le dedica a las MLOps.
@@ -32,6 +33,7 @@ show_sidebar: false
 2. [Ejemplo de uso de *Ray Serve* para desplegar modelos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
 
 3. [Ejemplo de uso de *Evidently* para monitorear los datos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
+
 
 ## Herramientas para MLOps
 
