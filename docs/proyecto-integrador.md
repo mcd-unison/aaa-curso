@@ -13,23 +13,37 @@ Vamos a hacer 4 equipos de 4 personas y 1 equipo de 2 personas:
 
 ### Equipo 1: 
 
-- Maria Elena 
-- Jordan 
+- Maria Elena
+- Jordan
 
 ### Equipo 2:
 
-
+- Elaine
+- Daniela
+- Aaron
+- Ariel
 
 ### Equipo 3:
 
-
+- Martin
+- Melissa
+- Yanet
+- Estefania
 
 ### Equipo 4:
 
-
+- Diana
+- Eliud
+- Osiris
+- Kevin
 
 ### Equipo 5:
 
+- Santiago
+- Rodrigo
+- Fernando
+- Javier
+- Daniel
 
 ## Proyectos
 
@@ -50,7 +64,18 @@ Para elaborar dicho proyecto, se proveerá con 19 imágenes en formato TIFF, las
 Los datos y los modelos resultantes serían de carácter público.
 
 
-
-
 ## Criterios de evaluación
 
+1. Un estudio inicial (puede ser una libreta jupyter) que incluya:
+   1. Un análisis exploratorio de los datos
+   2. Una limpieza y generación *a priori* de nuevas características
+   3. Establecer con claridad cual es el problema a resolver desde el punto de vista de aprendizaje automático
+2. Una breve revisión bibliográfica sobre que existe y que se puede utilizar para el problema 
+3. Un modelo simple y un análisis de los resultados para una mejor comprensión del problema
+4. Manejo del ciclo de vida de un producto de aprendizaje automático usando una herramienta (*MLFlow*, *MLRun*, *Neptune.ai*, ....)
+   1. Establecer claramente las métricas y los artefactos y documentarlos.
+   2. Mantener un registro de experimentos
+   3. Mantener un registro de modelos
+   4. Usar métodos de búsqueda de hiperparámetros (`hyperopts`, `optuna`, `gridsearch` de `sklearn`, ...)
+   5. Mostrar la calidad de los modelos y asegurar de alguna manera la generalización del modelo seleccionado
+   6. Poner el modelo en producción (ejemplo) usando una REST API, y un ejemplo de uso
