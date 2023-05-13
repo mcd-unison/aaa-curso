@@ -28,11 +28,15 @@ show_sidebar: false
 
 ## Libretas, scripts y tutoriales
 
-1. [Made with ML](https://madewithml.com). Un curso muy interesante con una prespectiva industrial del aprendizaje automático. Mucho le dedica a las MLOps.
+1. [Un ejemplo en github](https://github.com/juliowaissman/github-mlflow-dagshub-colab) para usar [DagsHub](https://dagshub.com/) para manejar proyectos colaborativos con *MLFlow* (El repositorio también se puede revisar en su [sincronización en DagsHub](https://dagshub.com/juliowaissman/github-mlflow-dagshub-colab) y su [*MLFlow Tracking Dashboard*](https://dagshub.com/juliowaissman/github-mlflow-dagshub-colab.mlflow)).
 
-2. [Ejemplo de uso de *Ray Serve* para desplegar modelos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
+2. Enlace a la página de [OnDemand](https://ondemand-acarus.unison.mx) del ACARUS (requieren de su cuenta y su contraseña). En *OnDemand* se tiene instalado MLOps para servir un *Tracking Server* (y se puede ver usando [esta libreta de ejemplo](https://github.com/mcd-unison/aaa-curso/raw/main/ejemplos/autologgers.ipynb))
 
-3. [Ejemplo de uso de *Evidently* para monitorear los datos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
+3. [Made with ML](https://madewithml.com). Un curso muy interesante con una prespectiva industrial del aprendizaje automático. Mucho le dedica a las MLOps.
+
+4. [Ejemplo de uso de *Ray Serve* para desplegar modelos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
+
+5. [Ejemplo de uso de *Evidently* para monitorear los datos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
 
 
 ## Herramientas para MLOps
