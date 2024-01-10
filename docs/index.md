@@ -9,10 +9,15 @@ show_sidebar: false
 
 
 | **Profesor**    | Julio Waissman (julio.waissman@unison.mx)  |
-| **Horarios**    | Martes de 18:00 a 20:00 hrs                |
-|                 | Sábados de 10:00 a 12:00                   |
+| **Horarios**    | Miércoles de 18:00 a 20:00 hrs             |
+|                 | Sábados de 12:00 a 14:00                   |
 |                 | Jueves y viernes, 3 horas autónomas        |
-| **Lugar**       | Sala de videoconferencias del DM           |
+| **Lugar**       | Laboratorio de Ciencia de Datos            |
+
+
+[**Presentación de introducción**](https://github.com/mcd-unison/aaa-curso/raw/main/slides/intro-curso.pptx) 
+
+
 
 ## Objetivos del curso
 
@@ -21,23 +26,37 @@ métodos cruciales de aprendizaje automático para resolver problemas, ejecutar 
 
 Los objetivos de este curso son:
 
-1. Conocer y entender la teoría básica que sustenta el aprendizaje supervisado.
-2. Conocer y saber cómo y en qué condiciones aplicar algoritmos de aprendizaje supervisado.
-3. Entender y seleccionar los criterios y las técnicas para la medición de la calidad de un algoritmo de aprendizaje supervisado.
-4. Conocer y saber aplicar diferentes algoritmos de aprendizaje no supervisado.
-5. Conocer y saber aplicar los métodos de MLOps en el desarrollo de un modelo de aprendizaje para un problema real.
+1. Conocer y saber aplicar diferentes algoritmos de aprendizaje no supervisado.
+
+2. Conocer y entender la teoría básica que sustenta el aprendizaje supervisado.
+
+3. Conocer y saber cómo y en qué condiciones aplicar algoritmos de aprendizaje supervisado.
+
+4. Entender y seleccionar los criterios y las técnicas para la medición de la calidad de un algoritmo de aprendizaje supervisado.
+
+5. Conocer y saber aplicar los métodos de *MLOps* en el desarrollo de un modelo de aprendizaje para un problema real.
 
 Las competencias que queremos ayudar a desarrollar en los estudiantes a lo largo del semestre son las siguientes:
 
-1. Utilizar las herramientas más populares en python para el desarrollo de modelos de aprendizaje supervisado en Ciencia de Datos.
-2. Saber decidir cual modelo de aprendizaje supervisado es el más adaptado para diferentes problemas y medir la calidad de éste.
-3. Entender y saber utilizar métodos de aprendizaje no supervisado para un proceso de minería de datos.
+1. Entender y saber utilizar métodos de aprendizaje no supervisado para un proceso de minería de datos.
+   
+2. Utilizar las herramientas más populares en python para el desarrollo de modelos de aprendizaje supervisado en Ciencia de Datos.
+
+3. Saber decidir cual modelo de aprendizaje supervisado es el más adaptado para diferentes problemas y medir la calidad de éste.
+
 4. Desarrollar un modelo de aprendizaje para un problema real, haciendo uso de herramientas de MLOps que aseguren la reproducibilidad de los resultados.
 
 
 ## Temario
 
-1. **Introducción** *(3 semanas aprox.)*
+1. **Introducción** *(1 clase)*
+
+2. **Aprendizaje no supervisado** *(1 1/2 semanas aprox)*
+   1. Reagrupamiento aglomerativo
+   2. Reagrupamiento jerárquico
+   3. Reducción de la dimensionalidad
+
+3. **Introducción** *(3 semanas aprox.)*
    1. ¿Que es el aprendizaje automático?
    2. ¿El aprendizaje supervisado es posible? 
    3. Un ejemplo: regresión lineal y logística
@@ -48,27 +67,29 @@ Las competencias que queremos ayudar a desarrollar en los estudiantes a lo largo
    8. Curvas de aprendizaje
    9. MLOps y DataOps ¿Para qué utilizarlas?
    10. Experimentos, métricas y funciones de costo
-2. **Modelos lineales de aprendizaje supervisado** *(3 semanas aprox.)*
+
+4. **Modelos lineales de aprendizaje supervisado** *(3 semanas aprox.)*
    1. Modelos lineales generalizados
    2. Máquinas de vectores de soporte
-3. **Modelos no lineales de aprendizaje supervisado** *(2 semana aprox.)*
+
+5. **Modelos no lineales de aprendizaje supervisado** *(2 semana aprox.)*
    1. Modelos por árboles de decisión
    2. Modelos de *ensamble*
-4. **Redes neuronales** *(3 semanas aprox)*
+
+6. **Redes neuronales** *(3 semanas aprox)*
    1. Conceptos teóricos sobre ejemplos sencillos
    2. El perceptrón multicapa (MLP)
    3. Redes Convolucionales (CNN)
-5. **Operaciones de aprendizaje máquina (MLOps)** *(2 semanas aprox)*
+   4. Transfer learning y modelos preentrenados
+   5. Aprendizaje autosupervisado
+
+7. **Operaciones de aprendizaje máquina (MLOps)** *(1 semana aprox)*
    1. Despliegue y administración de modelos
    2. Supervisión de modelos de aprendizaje.
-6. **Aprendizaje no supervisado** *(2 semanas aprox)*
-   1. Reagrupamiento aglomerativo
-   2. Reagrupamiento jerárquico
-   3. Reducción de la dimensionalidad
-7. **Series de tiempo** *(optativo, dependiendo del tiempo que quede)*
-   1. Nociones básicas
-   2. Métodos estáticos
-   3. Redes neuronales recurrentes
+
+8. **Series de tiempo** *(1 semana aprox)*
+   1. Métodos clásicos
+   2. Redes neuronales recurrentes
 
 
 ## Herramientas de enseñanza

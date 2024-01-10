@@ -1,22 +1,37 @@
 - name: Temas
   link: /#
   dropdown:
-    - name: Introducción 
-      link: /intro/
+    - name: Aprendizaje no supervisado
+      link: /nosupervisado/
+    - name: Teoría del aprendizaje supervisado 
+      link: /teoria/
     - name: Modelos lineales de aprendizaje supervisado
       link: /lineales/
     - name: Modelos no lineales de aprendizaje supervisado
       link: /nolineales/
     - name: Redes neuronales
       link: /rn/
-    - name: Aprendizaje no supervisado
-      link: /nosupervisado/
     - name: Operaciones de aprendizaje máquina (MLOps)
       link: /mlops/
-    - name: Explicabilidad de modelos
-      link: /explain/
-    - name: Sistemas recomendadores
-      link: /recsys/
+    - name: Series de tiempo
+      link: /series/
+- name: Actividades
+  link: /#
+  dropdown:
+    - name: Aprendizaje no supervisado
+      link: /nosupervisado_a/
+    - name: Teoría del aprendizaje supervisado 
+      link: /teoria_a/
+    - name: Modelos lineales de aprendizaje supervisado
+      link: /lineales_a/
+    - name: Modelos no lineales de aprendizaje supervisado
+      link: /nolineales_a/
+    - name: Redes neuronales
+      link: /rn_a/
+    - name: Operaciones de aprendizaje máquina (MLOps)
+      link: /mlops_a/
+    - name: Series de tiempo
+      link: /series_a/
 - name: Proyectos
   link: /#
   dropdown:

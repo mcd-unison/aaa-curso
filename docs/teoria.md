@@ -1,5 +1,5 @@
 ---
-title: Introducción 
+title: Teoría del aprendizaje supervisado 
 subtitle: Curso Aprendizaje Automático Aplicado
 layout: page
 hero_image: https://github.com/mcd-unison/aaa-curso/raw/main/docs/img/intro-banner.jpeg
@@ -10,14 +10,11 @@ show_sidebar: false
 
 ## Presentaciones
 
-1. [¿Qué es el aprendizaje automático?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/intro-curso.pptx) 
-
 2. [¿Qué es el aprendizaje supervisado?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/intro-supervisado.pdf)
 
 3. [¿En que sentido el aprendizaje supervisado es posible?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/generalizacion.pdf)
 
 4. [Mi primer modelo de aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ejemplo_modelo.pdf) y como saber si mi modelo está bien usando diferentes métricas como [coeficiente de determinación](https://en.wikipedia.org/wiki/Coefficient_of_determination), [matrices de confusión](https://en.wikipedia.org/wiki/Confusion_matrix) o [la curva ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
-
 
 5. [Presentación sobre generación de características (del curso de IA de Stanford)](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf)
 
@@ -28,13 +25,6 @@ show_sidebar: false
 8. [Presentación sobre validación](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect13.pdf) de [M. Magdon-Ismail](http://www.cs.rpi.edu/~magdon/)
 
 9.  [Introducción a las MLOps](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-intro.pdf)
-
-
-## Módulos y librerías para Aprendizaje automático
-
-1. **Python**. Empezando por [*sci-kit learn*](https://scikit-learn.org/), la librería más utilizada (por mucho). Para grandes cantidades de datos [pyspark](https://spark.apache.org/docs/latest/api/python/index.html) incluye el módulo `MLlib` para flujos de aprendizaje automático. Y por último, el nuevo muchacho en el barrio: [pycaret](https://pycaret.org), que ha tenido un crecimiento importante recientemente. 
-   
-2. **R**. Una gran cantidad de paquetes de aprendizaje se encuentran reunidos en el *metapaquete* [caret](https://topepo.github.io/caret/index.html), el primer lugar a consultar para hacer ML en R.
 
 
 ## Libretas *jupyter*
