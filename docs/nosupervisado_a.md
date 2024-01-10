@@ -9,6 +9,11 @@ show_sidebar: false
 
 ## Cursos
 
+- [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) de DataCamp
 
-## Miniproyecto
+- [Cluster Analysis in Python](https://www.datacamp.com/courses/cluster-analysis-in-python) de DataCamp
 
+
+## Miniproyectos
+
+- [Clustering Antarctic Penguin Species](https://projects.datacamp.com/projects/1809) de DataCamp
