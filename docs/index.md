@@ -160,5 +160,3 @@ Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la e
 
 ![](https://static.wixstatic.com/media/e097e0_ec221f1cda5d43c68f0f44ef54b7a9c1~mv2.png/v1/fill/w_324,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Orbitware-01.png)
 
-[*Orbitware*](https://www.orbitware.com) es una empresa mexicana que ofrece a sus clientes las mejores soluciones que cumplan con sus necesidades en el área de transformación digital. Gracias a una vinculación con la Maestría en Ciencia de Datos, Orbitware nos proporciona acceso a plataforma profesionales para el desarrollo de soluciones profesionales de modelos de aprendizaje.
-
