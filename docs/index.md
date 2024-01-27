@@ -159,4 +159,3 @@ Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la e
 [*NVIDIA Deep Learning Institute (DLI)*](https://www.nvidia.com/en-us/training/). Cursos en línea principalmente sobre redes neuronales profundas. Una certificación con una buena introducción al uso de modelos de aprendizaje profundo.
 
 ![](https://static.wixstatic.com/media/e097e0_ec221f1cda5d43c68f0f44ef54b7a9c1~mv2.png/v1/fill/w_324,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Orbitware-01.png)
-
