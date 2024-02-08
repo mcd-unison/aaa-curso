@@ -12,7 +12,7 @@ show_sidebar: false
 
 2. [¿Qué es el aprendizaje supervisado?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/intro-supervisado.pdf)
 
-3. [¿En que sentido el aprendizaje supervisado es posible?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/generalizacion.pdf), y un [ejemplito de la heurística de la dimensión VC](https://github.com/mcd-unison/aaa-curso/blob/main/ejemplos/evolucion_dvc.ipynb)
+3. [¿En que sentido el aprendizaje supervisado es posible?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/generalizacion.pdf).
 
 4. [Mi primer modelo de aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ejemplo_modelo.pdf) y como saber si mi modelo está bien usando diferentes métricas como [coeficiente de determinación](https://en.wikipedia.org/wiki/Coefficient_of_determination), [matrices de confusión](https://en.wikipedia.org/wiki/Confusion_matrix) o [la curva ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 
@@ -29,6 +29,8 @@ show_sidebar: false
 
 ## Libretas *jupyter*
 
-1. [Comparación de modelos de clasificación](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/plot_classifier_comparison.ipynb)
+1. [Un ejemplito de la heurística de la dimensión VC](https://github.com/mcd-unison/aaa-curso/blob/main/ejemplos/evolucion_dvc.ipynb)
+
+2. [Comparación de modelos de clasificación](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/plot_classifier_comparison.ipynb)
 
 

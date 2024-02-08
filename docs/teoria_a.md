@@ -23,3 +23,9 @@ show_sidebar: false
 
 1. [Predictive Modeling for Agriculture](https://app.datacamp.com/learn/projects/1772)
 
+# Libretas
+
+1. [Regresión lineal a pie](https://github.com/mcd-unison/aaa-curso/blob/main/ejemplos/reg_lineal.ipynb)
+
+2. [Regresión logística a pie](https://github.com/mcd-unison/aaa-curso/blob/main/ejemplos/reg_logistica.ipynb)
+
