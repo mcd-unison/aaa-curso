@@ -36,16 +36,11 @@ show_sidebar: false
 
 ## Libretas *jupyter*
 
-1. [Regresión lineal](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/reg_lineal.ipynb)
+1. [Una libreta sobre naive Bayes](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb).
 
-2. [Regresión logística](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/reg_logistica.ipynb)
+2. [Un libreta sobre regresión lineal](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb)
 
-3. [Regularización](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/regularizacion_logistica.ipynb)
-
-4. [Una libreta sobre Naive Bayes](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb).
-
-
-
+3. [Una libreta de máquinas de vectores de soporte](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.07-Support-Vector-Machines.ipynb)
 
 
 
