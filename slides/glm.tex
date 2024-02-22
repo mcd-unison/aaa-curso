@@ -256,10 +256,10 @@ Asumimos que:
 
   Para este modelo, tenemos que:
   \begin{itemize}
-    \item $h(y) = \frac{1}{\sqrt{2 \pi \sigma^2}}$
-    \item $A(\eta) = \frac{\mu^2}{2 \sigma^2}$
-    \item $\theta = \mu$
+    \item $h(y) = \frac{1}{\sqrt{2 \pi \sigma^2}} \exp\left(-\frac{y^2}{2 \sigma^2}\right)$
+    \item $\theta = \mu = \sigma^2 \eta$
     \item $\eta = \frac{\mu}{\sigma^2}$
+    \item $A(\mu) = \frac{\mu^2}{2 \sigma^2} = A(\eta) = \frac{\sigma^2 \eta^2}{2}$
     \item $T(y) = y$
   \end{itemize}
   
@@ -306,8 +306,8 @@ Asumimos que:
   \begin{itemize}
     \item $h(y) = 1$
     \item $A(\eta) = -\log (1 - \rho)$
-    \item $\theta = \rho$
     \item $\eta = \log \frac{\rho}{1 - \rho}$
+    \item $\theta = \rho = \frac{1}{1 + e^{-\eta}}$
     \item $T(y) = y$
   \end{itemize}
 

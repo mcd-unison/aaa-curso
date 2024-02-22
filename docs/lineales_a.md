@@ -9,5 +9,8 @@ show_sidebar: false
 
 ## Cursos
 
-1.  [Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python). 
+1. [Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python). 
 
+2. [MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)
+
+3. [End-to-End Machine Learning](https://www.datacamp.com/courses/mlops-concepts)
