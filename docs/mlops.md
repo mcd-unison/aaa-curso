@@ -25,43 +25,51 @@ show_sidebar: false
 
 7. [Infraestructura y plataformas](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-infraestructura.pdf)
 
+8. Unas presentaciones de [mlflow](https://www.mlflow.org) que parecen todavía no están desactualizadas, [intoduciendo mlflow](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow1.pdf), [el seguimiento de experimentos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow2.pdf), [registro y servicio de modelos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow3.pdf) y [proyectos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow4.pdf).
+
 
 ## Libretas, scripts y tutoriales
 
 1. [Un ejemplo en github](https://github.com/juliowaissman/github-mlflow-dagshub-colab) para usar [DagsHub](https://dagshub.com/) para manejar proyectos colaborativos con *MLFlow* (El repositorio también se puede revisar en su [sincronización en DagsHub](https://dagshub.com/juliowaissman/github-mlflow-dagshub-colab) y su [*MLFlow Tracking Dashboard*](https://dagshub.com/juliowaissman/github-mlflow-dagshub-colab.mlflow)).
 
-2. Enlace a la página de [OnDemand](https://ondemand-acarus.unison.mx) del ACARUS (requieren de su cuenta y su contraseña). En *OnDemand* se tiene instalado MLOps para servir un *Tracking Server* (y se puede ver usando [esta libreta de ejemplo](https://github.com/mcd-unison/aaa-curso/raw/main/ejemplos/autologgers.ipynb))
+2. [Otro ejemplito en DagsHub con mlflow](https://dagshub.com/juliowaissman/toyota).
 
-3. [Made with ML](https://madewithml.com). Un curso muy interesante con una prespectiva industrial del aprendizaje automático. Mucho le dedica a las MLOps.
+3. Enlace a la página de [OnDemand](https://ondemand-acarus.unison.mx) del ACARUS (requieren de su cuenta y su contraseña). En *OnDemand* se tiene instalado MLOps para servir un *Tracking Server* (y se puede ver usando [esta libreta de ejemplo](https://github.com/mcd-unison/aaa-curso/raw/main/ejemplos/autologgers.ipynb))
 
-4. [Ejemplo de uso de *Ray Serve* para desplegar modelos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
+3.[Un curso de DVC](https://learn.iterative.ai) para usar [DVC](https://dvc.org) en todas sus etapas.
 
-5. [Ejemplo de uso de *Evidently* para monitorear los datos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
+4. [Made with ML](https://madewithml.com). Un curso muy interesante con una prespectiva industrial del aprendizaje automático. Mucho le dedica a las MLOps.
+
+5. [Ejemplo de uso de *Ray Serve* para desplegar modelos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
+
+6. [Ejemplo de uso de *Evidently* para monitorear los datos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
 
 
 ## Herramientas para MLOps
 
 1. [MLFlow](https://www.mlflow.org). La plataforma de código abierto más usada como base para esquemas de MLOps. Una versión simple de lo que puedes tener con [*DataBricks*](https://databricks.com) si estás en una compañía que esté dispuesta a pagar el precio. Existe una versión para experimentación.
 
-2. [*Weights & Biases*](https://wandb.ai/site). Similar a DataBricks, la solucion completa. Existe una versión académica y una personal, pero no puede usarse en empresas.
+2. [DVC](https://dvc.org). Originalmente para versionado de datos, aunque ya hacen un poco de todo. Es mejor combinarlo con mlflow, si no se quiere pasar a un contenedor con *deltalake*.
 
-3. [*MLRun*](https://www.mlrun.org). Otra plataforma similar a *MLFlow* pero incluye una interfase gráfica para el manejo del ciclo de vida (como *DataBricks*). Puede instalarse *on premise*.
+3. [*Weights & Biases*](https://wandb.ai/site). Similar a DataBricks, la solucion completa. Existe una versión académica y una personal, pero no puede usarse en empresas.
+
+4. [*MLRun*](https://www.mlrun.org). Otra plataforma similar a *MLFlow* pero incluye una interfase gráfica para el manejo del ciclo de vida (como *DataBricks*). Puede instalarse *on premise*.
    
-4. [*Neptune.ai](https://neptune.ai). Otra plataforma más, en la nube la orquestación, pero los modelos se pueden ejecutar *on premise*.
+5. [*Neptune.ai](https://neptune.ai). Otra plataforma más, en la nube la orquestación, pero los modelos se pueden ejecutar *on premise*.
 
-5. [*Ray*](https://www.ray.io/). Una plataforma de desarrollo pensando en la escalabilidad sobre todo. EN particular es muy apreciada la librería *ray serve* para poner los modelos de aprendizaje en producción.
+6. [*Ray*](https://www.ray.io/). Una plataforma de desarrollo pensando en la escalabilidad sobre todo. EN particular es muy apreciada la librería *ray serve* para poner los modelos de aprendizaje en producción.
 
-6. [*MetaFlow*](https://metaflow.org). La solución de *Netflix* para MLOps. Al parecer muy poderoso pero tambien muy complicado de instalar *on premise*. Funciona sobre *Kubernetes*.
+7. [*MetaFlow*](https://metaflow.org). La solución de *Netflix* para MLOps. Al parecer muy poderoso pero tambien muy complicado de instalar *on premise*. Funciona sobre *Kubernetes*.
 
-7. [*Facets*](https://pair-code.github.io/facets/). Otra herramienta de EDA, muy importante saber las estadísticas básicas de los datos para poder monitorearlos con [*pydantic*](https://pydantic-docs.helpmanual.io) o [*Great Expectations*](https://github.com/great-expectations/great_expectations).
+8. [*Facets*](https://pair-code.github.io/facets/). Otra herramienta de EDA, muy importante saber las estadísticas básicas de los datos para poder monitorearlos con [*pydantic*](https://pydantic-docs.helpmanual.io) o [*Great Expectations*](https://github.com/great-expectations/great_expectations).
 
-8. [*pydantic*](https://pydantic-docs.helpmanual.io). Validación de datos conforme los utiliza uno, exclusivo par *python*. Similar pero para funcionar en la nube y en producción existe el proyecto [*Great Expectations*](https://github.com/great-expectations/great_expectations).
+9. [*pydantic*](https://pydantic-docs.helpmanual.io). Validación de datos conforme los utiliza uno, exclusivo par *python*. Similar pero para funcionar en la nube y en producción existe el proyecto [*Great Expectations*](https://github.com/great-expectations/great_expectations).
 
-9.  [*Evidently AI*](https://evidentlyai.com). Herramientas en código abierto para monitorear la calidad de los datos, la deriva de los datos y la calidad de los modelos de predicción durante la etapa de producción. Se puede integrar a MLFlow, pero están más bonitos los tableros de *Evidently*.
+10. [*Evidently AI*](https://evidentlyai.com). Herramientas en código abierto para monitorear la calidad de los datos, la deriva de los datos y la calidad de los modelos de predicción durante la etapa de producción. Se puede integrar a MLFlow, pero están más bonitos los tableros de *Evidently*.
 
-10. [*Whylogs*](https://github.com/whylabs/whylogs). Similar a *Evidently* al parecer, pero solo la librería, ya que es el corazón de un producto que ya no es de código abierto (*Whylabs*). 
+11. [*Whylogs*](https://github.com/whylabs/whylogs). Similar a *Evidently* al parecer, pero solo la librería, ya que es el corazón de un producto que ya no es de código abierto (*Whylabs*). 
 
-11. [*AirFlow*](https://airflow.apache.org). No es propiamente para MLOps, pero se utiliza mucho en conjunto con otras plataformas.
+12. [*AirFlow*](https://airflow.apache.org). No es propiamente para MLOps, pero se utiliza mucho en conjunto con otras plataformas.
 
 
 ## Otra información
