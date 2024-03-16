@@ -7,7 +7,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-## Presentaciones
+## Presentaciones 
 
 1. Empecemos por [esta entrada de blog](https://www.mihaileric.com/posts/mlops-is-a-mess/) que posiciona las *MLOps* de forma sencilla y amena.
 
