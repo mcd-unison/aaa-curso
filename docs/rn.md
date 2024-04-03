@@ -23,9 +23,7 @@ show_sidebar: false
 
 7. Otras compañías con recursos en código abierto, modelos preentrenados, librerías y *frameworks* que vale la pena estar revisando son [OpenAI](https://openai.com) (cada vez menos abierta y cada vez más *for profit*), [Meta AI](https://ai.facebook.com), ahora ya con licencias tipo MIT, y [Google Research](https://research.google).
 
-8. El artículo [*GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models*](https://arxiv.org/abs/2303.10130) con una visión para pensar del futuro del trabajo con las implicaciones de los LLM en la vida diaria.
-
-9. [Un listado de conjuntos de datos](https://datasets.activeloop.ai/docs/ml/datasets/)n que se utilizan muy intensivamente en tareas de aprendizaje profundo. 
+8. [Un listado de conjuntos de datos](https://datasets.activeloop.ai/docs/ml/datasets/)n que se utilizan muy intensivamente en tareas de aprendizaje profundo. 
 
 ## Redes neuronales: nociones básicas 
 
@@ -38,23 +36,20 @@ show_sidebar: false
 
 ## Redes Convolucionales
 
-1. Una presentación sobre [redes convolucionales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/convolucionales.pdf) y un [ejemplo en colab del `hola mundo` de las redes neuronales](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab2/Part1_MNIST.ipynb).
+1. Una presentación sobre [redes convolucionales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/convolucionales.pdf).
 
 2. Una [muy buena presentación del curso del MIT](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L3.pdf) sobre CNN para visión por computadora, así como [un ejercicio en colab de *autocodificadores variacionales*](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/2023/lab2/Part2_FaceDetection.ipynb), basado en [éste artículo de ellos mismos](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf).
 
 3. Una presentación sobre [transferencia del aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pptx) (tambien [en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pdf)) y [una libreta para jugar con modelos preentrenados](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/transfer.ipynb)
 
-4. Un [recurso](https://arxiv.org/abs/2303.17580) que vale la pena darle una ojeada y ver que se puede replicar. ¿Funcionará en español? Aquí [la liga a el sistema](https://huggingface.co/spaces/microsoft/HuggingGPT), solo se necesita estar registrado en *OpenAI* y en *HF Spaces*.
+4. Un [recurso](https://arxiv.org/abs/2303.17580) que vale la pena darle una ojeada y ver que se puede replicar. Aquí [la liga a el sistema](https://huggingface.co/spaces/microsoft/HuggingGPT), solo se necesita estar registrado en *OpenAI* y en *HF Spaces*.
 
 ## Algunas libretas con ejemplos
 
 1. [Una libreta en colab](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab1/Part1_TensorFlow.ipynb) de introducción a Tensorflow, de un curso del MIT.
 
-2. [Una libreta en microsoft learn](https://docs.microsoft.com/es-mx/learn/modules/intro-machine-learning-pytorch/2-tensors?WT.mc_id=aiml-7486-cxa) sobre tensores en *pyTorch* y sobre [diferenciación automática](https://docs.microsoft.com/es-mx/learn/modules/intro-machine-learning-pytorch/6-autograd?WT.mc_id=aiml-7486-cxa).
+2. [Una libreta para jugar con modelos pre-entrenados de TensorFlow Hub](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/transfer.ipynb)
 
-3. [Una libreta en colab del `hola mundo` de las redes neuronales](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab2/Part1_MNIST.ipynb).
-   
-4. [Una libreta para jugar con modelos pre-entrenados de TensorFlow Hub](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/transfer.ipynb)
 
 ## Aprendizaje auto-supervisado (*Self supervised learning)
 
@@ -66,7 +61,7 @@ show_sidebar: false
 
 4. ¿Porque es tan importante el aprendizaje autosupervisado en NLP? Leer el artículo [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
    
-5. Une entrada de blog muy interesante de Yann LeCun: [*Self-supervised learning: The dark matter of intelligence*](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+5. Una entrada de blog muy interesante de Yann LeCun: [*Self-supervised learning: The dark matter of intelligence*](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
 
 6. [Otra presentación muy extensa](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ssl-Vakanski-20.pdf) de [Alex Vakanski](https://www.uidaho.edu/engr/our-people/alex-vakanski). Solo si les interesa mucho el tema y se quieren mirar toda la presentación (básicamente lo mismo que la presentación 1 pero con lujo de detalle).
 
