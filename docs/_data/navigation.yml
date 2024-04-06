@@ -35,16 +35,5 @@
 - name: Proyecto integrados
   link: /#
   dropdown:
-    - name: Análisis exploratorio con aprendizaje no supervisado 
-      link: /proyecto-1/
-    - name: Estableciendo un proyecto de ML
-      link: /proyecto-2/
-    - name: Modelo sencillo
-      link: /proyecto-3/
-    - name: Complicando el modelo
-      link: /proyecto-4/
-    - name: Liberando al Kraken
-      link: /proyecto-5/
-    - name: Producción
-      link: /proyecto-6/
-      
+    - name: Diseño 
+      link: /proyecto-1/      

@@ -9,7 +9,11 @@ show_sidebar: false
 
 ## Libretas
 
-1. [Un ejemplito de redes neuronales en pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/into_pytorch.ipynb).
+1. [Un ejemplito de redes neuronales en pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/pytorch_ejemplo_simple.ipynb).
+
+2. [Transferencia de aprendizaje simple con pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/transfer_pytorch.ipynb)
+
+3. [Transferencia de estilo en imágenes con pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/nst_pytorch.ipynb) 
 
 ## Cursos
 
