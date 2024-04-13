@@ -23,4 +23,4 @@ show_sidebar: false
 
 ## Optativos
 
-1. [Cursos de NVIDIA](https://www.nvidia.com/en-us/training/online/). Tenemos un codigo promocional para los estudiantes del curso, más información en el Grupo.
+1. [Cursos de NVIDIA](https://www.nvidia.com/en-us/training/online/). Tenemos un código promocional para los estudiantes del curso, más información en el Grupo.
