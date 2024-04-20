@@ -24,3 +24,11 @@ show_sidebar: false
 ## Optativos
 
 1. [Cursos de NVIDIA](https://www.nvidia.com/en-us/training/online/). Tenemos un código promocional para los estudiantes del curso, más información en el Grupo.
+
+## Cursos de uso de LLM
+
+1. [ChatGPT Prompt Engineering for Developers](https://www.datacamp.com/courses/chatgpt-prompt-engineering-for-developers)
+   
+2. [Introduction to Embeddings with the OpenAI API](https://www.datacamp.com/courses/introduction-to-embeddings-with-the-openai-api)
+   
+3. [Developing LLM Applications with LangChain](https://www.datacamp.com/courses/developing-llm-applications-with-langchain)
