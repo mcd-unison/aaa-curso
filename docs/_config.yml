@@ -1,4 +1,5 @@
-theme: bulma-clean-theme
+#theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme:v0.14.0
 
 # Site Settings
 lang: es
