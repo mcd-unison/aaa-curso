@@ -24,7 +24,7 @@ plugins:
   - kramdown-parser-gfm
 
 exclude: 
-#  - Gemfile
+  - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
   - node_modules
