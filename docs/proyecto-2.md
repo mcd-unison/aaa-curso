@@ -21,7 +21,7 @@ Para este proyecto se les pide:
     - Bosques aleatorios
     - *Gradient boosting*
     - K vecinos próximos (solo si aplica)
-    Agregar curvas de aprendizaje y establecer porqué escogería uno un modelo. Posiblemente el modelo con menor error de pérdida podrñia no ser el mñas adecuado si se consideran otros factores.
+    Agregar curvas de aprendizaje y establecer porqué escogería uno un modelo. Posiblemente el modelo con menor error de pérdida podría no ser el más adecuado si se consideran otros factores.
 
 4. Si aplica, usar un modelo profundo preentrenado para la solución, o un LLM utilizando el método de *one shoot learning* o *few shoot learning*. En muchas ocasiones este tipo de modelos no son convenientes debido a su costo, o al tiempo de latencia que tienen. Pero este es un buen momento para practicar y hacer cosas para aprender como se hacen. Si no aplica justificarlo.
 
