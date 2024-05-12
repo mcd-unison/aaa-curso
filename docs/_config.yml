@@ -1,4 +1,4 @@
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
 
 # Site Settings
 lang: es
@@ -48,6 +48,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: false
+      layout: page
 
 markdown: kramdown
 highlighter: rouge
