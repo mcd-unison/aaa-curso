@@ -1,8 +1,0 @@
-# Gemfile
-
-source 'https://rubygems.org'
-
-gem "jekyll", "~> 4.3"
-gem 'github-pages', '~> 231'
-gem 'jekyll-github-metadata'
-gem "bulma-clean-theme"
