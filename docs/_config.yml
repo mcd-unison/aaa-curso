@@ -1,5 +1,5 @@
 # With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme:v0.14.0
+remote_theme: chrisrhymes/bulma-clean-theme:v0.13.3
 
 # Site Settings
 lang: es
