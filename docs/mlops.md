@@ -9,23 +9,23 @@ show_sidebar: false
 
 ## Presentaciones 
 
-1. Empecemos por [esta entrada de blog](https://www.mihaileric.com/posts/mlops-is-a-mess/) que posiciona las *MLOps* de forma sencilla y amena.
+1. Empecemos por [esta presentación general](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow_general.pdf).
 
-1. [Introducción a las MLOps](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-intro.pdf)
+2. Una presentacion de [mlflow](https://www.mlflow.org) [con los conceptos básicos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow_recortes.pdf).
+
+3. [Introducción a las MLOps](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-intro.pdf)
    
-2. [Preprocesamiento de datos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops-preprocesamiento.pdf)
+4. [Preprocesamiento de datos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops-preprocesamiento.pdf)
 
-3. [Selección de modelos de ML](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops-seleccion.pdf)
+5. [Selección de modelos de ML](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops-seleccion.pdf)
 
-4. [Despliegue de modelos de ML](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops-deploy.pptx)
+6. [Despliegue de modelos de ML](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops-deploy.pptx)
 
-5. [Monitoreo de la calidad de los modelo](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops-monitor.pptx)
+7. [Monitoreo de la calidad de los modelo](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops-monitor.pptx)
 
-6. [Una presentación de *Weights and Biases*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/WandB-tutorial.pptx)
+8. [Una presentación de *Weights and Biases*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/WandB-tutorial.pptx)
 
-7. [Infraestructura y plataformas](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-infraestructura.pdf)
-
-8. Unas presentaciones de [mlflow](https://www.mlflow.org) que parecen todavía no están desactualizadas, [intoduciendo mlflow](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow1.pdf), [el seguimiento de experimentos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow2.pdf), [registro y servicio de modelos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow3.pdf) y [proyectos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow4.pdf).
+9. [Infraestructura y plataformas](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-infraestructura.pdf)
 
 
 ## Libretas, scripts y tutoriales
@@ -33,16 +33,14 @@ show_sidebar: false
 1. [Un ejemplo en github](https://github.com/juliowaissman/github-mlflow-dagshub-colab) para usar [DagsHub](https://dagshub.com/) para manejar proyectos colaborativos con *MLFlow* (El repositorio también se puede revisar en su [sincronización en DagsHub](https://dagshub.com/juliowaissman/github-mlflow-dagshub-colab) y su [*MLFlow Tracking Dashboard*](https://dagshub.com/juliowaissman/github-mlflow-dagshub-colab.mlflow)).
 
 2. [Otro ejemplito en DagsHub con mlflow](https://dagshub.com/juliowaissman/toyota).
-
-3. Enlace a la página de [OnDemand](https://ondemand-acarus.unison.mx) del ACARUS (requieren de su cuenta y su contraseña). En *OnDemand* se tiene instalado MLOps para servir un *Tracking Server* (y se puede ver usando [esta libreta de ejemplo](https://github.com/mcd-unison/aaa-curso/raw/main/ejemplos/autologgers.ipynb)).
    
-4. [Un curso de DVC](https://learn.iterative.ai) para usar [DVC](https://dvc.org) en todas sus etapas.
+3. [Un curso de DVC](https://learn.iterative.ai) para usar [DVC](https://dvc.org) en todas sus etapas.
 
-5. [Made with ML](https://madewithml.com). Un curso muy interesante con una prespectiva industrial del aprendizaje automático. Mucho le dedica a las MLOps.
+4. [Made with ML](https://madewithml.com). Un curso muy interesante con una prespectiva industrial del aprendizaje automático. Mucho le dedica a las MLOps.
 
-6. [Ejemplo de uso de *Ray Serve* para desplegar modelos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
+5. [Ejemplo de uso de *Ray Serve* para desplegar modelos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
 
-7. [Ejemplo de uso de *Evidently* para monitorear los datos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
+6. [Ejemplo de uso de *Evidently* para monitorear los datos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
 
 
 ## Herramientas para MLOps
