@@ -9,9 +9,9 @@ show_sidebar: false
 
 ## Presentaciones 
 
-1. Empecemos por [esta presentación de los modelos ARIMA](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ARIMA-slides.pdf).
+1. Empecemos por [esta presentación de los modelos ARIMA](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ARIMA-slides.pdf) y [como podemos evaluarlos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/eval-ARIMA-slides.pdf).
 
-2. Sigamos con esta presentación de los modelos con estacionalidad
+2. Sigamos con esta presentación de los [modelos con estacionalidad](https://github.com/mcd-unison/aaa-curso/raw/main/slides/SARIMA-slides.pdf)
 
 3. El modelo [*prophet*](https://facebook.github.io/prophet/) de Facebook.
 
