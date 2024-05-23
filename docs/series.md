@@ -27,4 +27,7 @@ show_sidebar: false
    3. [NeuralForecast](https://github.com/Nixtla/neuralforecast): Modelos basados en redes neuronales, desde LSTM hasta TCN. 
    4. [HierarchicalForecast](https://github.com/Nixtla/hierarchicalforecast): Modelos jerárquicos para combinar con `StatsForcast`.
    5. [TimeGPT-1](https://docs.nixtla.io): Un LLM para predicción en series de tiempo basada en transformadores, usando transferencia de aprendizaje y modelos generativos.
+   
 3. [Neural Prophet](https://neuralprophet.com): La estructura de *Prophet* con modelos neuronales, basado en `pyTorch`.
+
+4. La libreta [*Complete Guide on Time Series Analysis in Python*](https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python) en Kaggle es un buen recurso para ver el análisis y tratamiento inicial a una serie de tiempo antes de usar modelos de pronostico.
