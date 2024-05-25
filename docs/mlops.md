@@ -27,6 +27,8 @@ show_sidebar: false
 
 9. [Infraestructura y plataformas](https://github.com/mcd-unison/aaa-curso/raw/main/slides/MLOps-infraestructura.pdf)
 
+10. Tutorial [*Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities*](https://explainml-tutorial.github.io/neurips20) presentado en *NeurIPS 2020*
+
 
 ## Libretas, scripts y tutoriales
 
@@ -75,3 +77,5 @@ show_sidebar: false
 ## Otra información
 
 1. [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html). Curso de [Chip Huyen](https://huyenchip.com), quien (además de escribir novelas en vietnamita) tiene posiblemente el mejor curso sobre MLOps que conozco hasta el momento. Muchas de las presentaciones de curso son extractos de las presentaciones de ella (con el reconocimiento respectivo), sólo porque no tenemos tiempo para ver la versión completa que es buenísima.
+
+2. Libro [*Interpretable Machine Learning: A Guide for Making Black Box Models Explainable*](https://christophm.github.io/interpretable-ml-book/), un libro del 2023 sobre el tema.
