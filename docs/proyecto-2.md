@@ -21,7 +21,8 @@ Para este proyecto se les pide:
     - Bosques aleatorios
     - *Gradient boosting*
     - K vecinos próximos (solo si aplica)
-    Agregar curvas de aprendizaje y establecer porqué escogería uno un modelo. Posiblemente el modelo con menor error de pérdida podría no ser el más adecuado si se consideran otros factores. Y guardar métricas, parámetros y artefactos de los experimentos en *mlflow*.
+    
+Agregar curvas de aprendizaje y establecer porqué escogería uno un modelo. Posiblemente el modelo con menor error de pérdida podría no ser el más adecuado si se consideran otros factores. Y guardar métricas, parámetros y artefactos de los experimentos en *mlflow*.
 
 
 4. ¿Los resultados son buenos? ¿Hay resultados de problemas similares reportados en la literatura? ¿El modelo final se podría poner en producción o que se necesitaría hacer para tener un modelo aceptable? Agrega un documento donde respondas estas preguntas, dejando claro cual va a ser el modelo a retener.

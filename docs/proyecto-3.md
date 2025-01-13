@@ -15,6 +15,5 @@ Para este miniproyecto vamos a probar dos maneras de poner un modelo en producci
 
 2. Realizar una libreta de *jupyter* con la documentación necesaria de los pasos que tiene que hacer alguien para recuperar un modelo del servidor de modelos de *DagsHub* y lo ponga *localmente* en servicio de forma MaaS. Completar la libreta con un ejemplo usando `requests` para mandar llamar al modelo y resolver el mismo problema que en el inciso 1 (pero con un modelo que se encuentra en ejecución en forma permanente como MaaS)
 
-Dada la huelga y el poco tiempo, vamos a dejar este proyecto solo en esbozar como usar los modelos a partir de un servidor de modelos.
 
 
