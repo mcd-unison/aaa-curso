@@ -1,5 +1,5 @@
 ---
-title: Curso Aprendizaje Automático Aplicado
+title: Curso Aprendizaje Automático Aplicado 2025-1
 subtitle: Maestría en Ciencia de Datos, Universidad de Sonora
 layout: page
 hero_image: https://github.com/mcd-unison/aaa-curso/raw/main/docs/img/ml-banner.jpg

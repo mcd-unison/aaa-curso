@@ -9,22 +9,19 @@ show_sidebar: false
 
 ## Cursos
 
-1. [Ethics in AI and Data Science](https://enterprise.edx.org/uni-sonora/course/LinuxFoundationX+LFS112x?). Curso de [EdX](https://www.edx.org) desarrollado por la *Linux Foundation*. El curso se encuentra de forma gratuita para los estudiantes de la Universidad de Sonora gracias al *Edx Campus*.
 
-2.  [Supervised Learning with scikit-learn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn). 
+1. [Preprocessing for Machine Learning in Python](https://app.datacamp.com/learn/courses/preprocessing-for-machine-learning-in-python). 
 
-3. [Preprocessing for Machine Learning in Python](https://app.datacamp.com/learn/courses/preprocessing-for-machine-learning-in-python). 
+2. [Feature Engineering for Machine Learning in Python](https://app.datacamp.com/learn/courses/feature-engineering-for-machine-learning-in-python)
 
-4. [Feature Engineering for Machine Learning in Python](https://app.datacamp.com/learn/courses/feature-engineering-for-machine-learning-in-python)
-
-5. [Model Validation in Python](https://app.datacamp.com/learn/courses/model-validation-in-python)
+3.  [Supervised Learning with scikit-learn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn). 
 
 # Miniproyectos
 
 1. [Predictive Modeling for Agriculture](https://app.datacamp.com/learn/projects/1772)
 
 # Libretas
-
+ 
 1. [Regresión lineal a pie](https://github.com/mcd-unison/aaa-curso/blob/main/ejemplos/reg_lineal.ipynb)
 
 2. [Regresión logística a pie](https://github.com/mcd-unison/aaa-curso/blob/main/ejemplos/reg_logistica.ipynb)

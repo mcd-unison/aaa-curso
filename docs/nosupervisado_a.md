@@ -13,6 +13,8 @@ show_sidebar: false
 
 - [Cluster Analysis in Python](https://www.datacamp.com/courses/cluster-analysis-in-python) de DataCamp
 
+- [Dimensionality Reduction in Python](https://www.datacamp.com/courses/dimensionality-reduction-in-python) de DataCamp
+
 
 ## Miniproyectos
 
