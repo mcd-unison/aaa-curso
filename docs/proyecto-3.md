@@ -7,7 +7,11 @@ hero_darken: true
 show_sidebar: false
 ---
 
-Ahora vamos a asumir que ya se tiene un modelo, y que este se encuentra en un repositorio de *DagsHub* y registrado como modelo en producción. El propósito de este miniproyecto final es poner en producción el modelo. Dadas las restricciones de tiempo no se va a ver en este curso el monitoreo de modelos y datos.
+**Un poquito de paciencia, cuando esté terminado el proyecto 1 liberamos el proyecto2**
+
+
+
+<!-- Ahora vamos a asumir que ya se tiene un modelo, y que este se encuentra en un repositorio de *DagsHub* y registrado como modelo en producción. El propósito de este miniproyecto final es poner en producción el modelo. Dadas las restricciones de tiempo no se va a ver en este curso el monitoreo de modelos y datos.
 
 Para este miniproyecto vamos a probar dos maneras de poner un modelo en producción: Por medio de un script que pueda ser llamado desde un *Data pipeline*, y poniendo el modelo en servicio bajo el esquema de *Model as a Service (MaaS).
 
@@ -15,5 +19,5 @@ Para este miniproyecto vamos a probar dos maneras de poner un modelo en producci
 
 2. Realizar una libreta de *jupyter* con la documentación necesaria de los pasos que tiene que hacer alguien para recuperar un modelo del servidor de modelos de *DagsHub* y lo ponga *localmente* en servicio de forma MaaS. Completar la libreta con un ejemplo usando `requests` para mandar llamar al modelo y resolver el mismo problema que en el inciso 1 (pero con un modelo que se encuentra en ejecución en forma permanente como MaaS)
 
-
+ -->
 

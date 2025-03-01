@@ -7,7 +7,10 @@ hero_darken: true
 show_sidebar: false
 ---
 
-Esta es la parte más interesante de un proyecto de aprendizaje automático, y vamos a proceder parte por parte.
+**Un poquito de paciencia, cuando esté terminado el proyecto 1 liberamos el proyecto2**
+
+
+<!-- Esta es la parte más interesante de un proyecto de aprendizaje automático, y vamos a proceder parte por parte.
 
 Para este proyecto se les pide:
 
@@ -26,3 +29,4 @@ Agregar curvas de aprendizaje y establecer porqué escogería uno un modelo. Pos
 
 
 4. ¿Los resultados son buenos? ¿Hay resultados de problemas similares reportados en la literatura? ¿El modelo final se podría poner en producción o que se necesitaría hacer para tener un modelo aceptable? Agrega un documento donde respondas estas preguntas, dejando claro cual va a ser el modelo a retener.
+ -->

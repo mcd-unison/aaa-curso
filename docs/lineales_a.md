@@ -11,6 +11,5 @@ show_sidebar: false
 
 1. [Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python). 
 
-2. [MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)
+2. [Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)
 
-3. [End-to-End Machine Learning](https://www.datacamp.com/courses/mlops-concepts)
