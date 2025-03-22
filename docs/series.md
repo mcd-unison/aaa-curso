@@ -17,18 +17,13 @@ show_sidebar: false
 
 4. [Un pequeño recuento de diferentes modelos de *forecasting*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/forecasting-methods.pdf)
 
-4. Modelos secuenciales con redes neuronales, con un [presentación de los modelos de base](https://github.com/mcd-unison/aaa-curso/raw/main/slides/RNN-slides.pptx) y [la misma presentación en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/RNN-slides.pdf).
+5. Modelos secuenciales con redes neuronales, con un [presentación de los modelos de base](https://github.com/mcd-unison/aaa-curso/raw/main/slides/RNN-slides.pptx) y [la misma presentación en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/RNN-slides.pdf).
 
 ## Recursos y librerías:
 
 1. [Open Time Series](https://opentimeseries.com): Un portal con información reciente sobre series de tiempo. Librerías para python, libros, tutoriales y artículos con el estado del arte en el área.
    
-2. [Nixtla](https://nixtlaverse.nixtla.io). Una serie de librerías para hacer pronóstico en series de tiempo que incluye:
-   1. [StatsForcast](https://github.com/Nixtla/statsforecast): Métodos estadísticos (ARIMA y similares).
-   2. [mlforcast](https://github.com/Nixtla/mlforecast): Un wraper para usar cualquier modelo con interfase tipo sklearn para realizar pronósticos en series de tiempo usando ventanas moviles.
-   3. [NeuralForecast](https://github.com/Nixtla/neuralforecast): Modelos basados en redes neuronales, desde LSTM hasta TCN. 
-   4. [HierarchicalForecast](https://github.com/Nixtla/hierarchicalforecast): Modelos jerárquicos para combinar con `StatsForcast`.
-   5. [TimeGPT-1](https://docs.nixtla.io): Un LLM para predicción en series de tiempo basada en transformadores, usando transferencia de aprendizaje y modelos generativos.
+2. [Nixtla](https://nixtlaverse.nixtla.io). Una serie de librerías para hacer pronóstico en series de tiempo. 
    
 3. [Neural Prophet](https://neuralprophet.com): La estructura de *Prophet* con modelos neuronales, basado en `pyTorch`.
 
