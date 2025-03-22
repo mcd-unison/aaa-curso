@@ -15,6 +15,8 @@ show_sidebar: false
 
 3. El modelo [*prophet*](https://facebook.github.io/prophet/) de Facebook y una [breve presentación](https://github.com/mcd-unison/aaa-curso/raw/main/slides/prophet.pdf).
 
+4. [Un pequeño recuento de diferentes modelos de *forecasting*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/forecasting-methods.pdf)
+
 4. Modelos secuenciales con redes neuronales, con un [presentación de los modelos de base](https://github.com/mcd-unison/aaa-curso/raw/main/slides/RNN-slides.pptx) y [la misma presentación en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/RNN-slides.pdf).
 
 ## Recursos y librerías:
