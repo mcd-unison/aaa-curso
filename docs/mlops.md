@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Presentaciones 
 
-1. Empecemos por [esta presentación general](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow_general.pdf).
+1. Empecemos por [esta presentación general](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlops_general.pdf).
 
 2. Una presentacion de [mlflow](https://www.mlflow.org) [con los conceptos básicos](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow_recortes.pdf).
 
