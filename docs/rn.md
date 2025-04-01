@@ -27,7 +27,7 @@ show_sidebar: false
 
 ## Redes neuronales: nociones básicas 
 
-1. [Una presentación sobre las nociones básicas de redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/neural-networks.pdf) así como el [importante algoritmo de *backpropagation*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/backpropagation.pdf). Tambien un [video muy bueno](https://www.youtube.com/watch?v=eNIqz_noix8&t=1s) sobre +b-prop* hecho por *Dot CSV* un youtuber muy recomendable que habla sobre redes neuronales profundas.
+1. [Una presentación sobre las nociones básicas de redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/neural-networks.pdf) así como el [importante algoritmo de *backpropagation*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/backpropagation.pdf). También un [video muy bueno](https://www.youtube.com/watch?v=eNIqz_noix8&t=1s) sobre *b-prop* hecho por *Dot CSV* un youtuber muy recomendable que habla sobre redes neuronales profundas.
    
 2. [*An overview of gradient descent optimization algorithms*](https://www.ruder.io/optimizing-gradient-descent/) de Sebastian Ruder.
    
@@ -46,9 +46,11 @@ show_sidebar: false
 
 ## Algunas libretas con ejemplos
 
-1. [Una libreta en colab](https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab1/Part1_TensorFlow.ipynb) de introducción a Tensorflow, de un curso del MIT.
+1. [Un ejemplito de redes neuronales en pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/pytorch_ejemplo_simple.ipynb).
 
-2. [Una libreta para jugar con modelos pre-entrenados de TensorFlow Hub](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/transfer.ipynb)
+2. [Transferencia de aprendizaje simple con pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/transfer_pytorch.ipynb)
+
+3. [Transferencia de estilo en imágenes con pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/nst_pytorch.ipynb) 
 
 
 ## Aprendizaje auto-supervisado (*Self supervised learning)
