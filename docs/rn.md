@@ -52,6 +52,9 @@ show_sidebar: false
 
 3. [Transferencia de estilo en imágenes con pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/nst_pytorch.ipynb) 
 
+4. [Detección de objetos en pyTorch, Faster R-CNN y Mask R-CNN](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/deteccion_objetos_pytorch.ipynb) 
+
+5. [Otro modelo de detección de objetos](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/YOLOv12_fine_tuning.ipynb), pero con el modelo más popular, YOLO. 
 
 ## Aprendizaje auto-supervisado (*Self supervised learning)
 
