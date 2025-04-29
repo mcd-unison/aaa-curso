@@ -14,9 +14,3 @@ show_sidebar: false
 
 2. [Winning a Kaggle Competition in Python](https://app.datacamp.com/learn/courses/winning-a-kaggle-competition-in-python)
 
-## Libretas (Más adelante)
-
-1. [Redes Neuronales Recurrentes (RNN) con numpy](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/Estados-ocultos.ipynb).
-
-2. [El problema del gradiente en las RNN vainilla](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/vanish-grad.ipynb)
-

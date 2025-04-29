@@ -19,6 +19,7 @@ show_sidebar: false
 
 5. Modelos secuenciales con redes neuronales, con un [presentación de los modelos de base](https://github.com/mcd-unison/aaa-curso/raw/main/slides/RNN-slides.pptx) y [la misma presentación en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/RNN-slides.pdf).
 
+
 ## Recursos y librerías:
 
 1. [Open Time Series](https://opentimeseries.com): Un portal con información reciente sobre series de tiempo. Librerías para python, libros, tutoriales y artículos con el estado del arte en el área.
@@ -28,3 +29,6 @@ show_sidebar: false
 3. [Neural Prophet](https://neuralprophet.com): La estructura de *Prophet* con modelos neuronales, basado en `pyTorch`.
 
 4. La libreta [*Complete Guide on Time Series Analysis in Python*](https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python) en Kaggle es un buen recurso para ver el análisis y tratamiento inicial a una serie de tiempo antes de usar modelos de pronostico.
+
+5. Dos libretas ilustrativas: [Redes Neuronales Recurrentes (RNN) con numpy](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/Estados-ocultos.ipynb) y [El problema del gradiente en las RNN vainilla](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/vanish-grad.ipynb). Las dos en `numpy` para ilustrar como funcionan las redes neuronales recursivas.
+

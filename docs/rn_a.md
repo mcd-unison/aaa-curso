@@ -13,7 +13,6 @@ show_sidebar: false
 
 2. [Intermediate Deep Learning with PyTorch](https://www.datacamp.com/courses/intermediate-deep-learning-with-pytorch)
 
-3. [Cursos de NVIDIA](https://www.nvidia.com/en-us/training/online/). Tenemos un código promocional para los estudiantes del curso, más información en el Grupo. El curso requerido es el de *Introducción al Deeplearning*.
 
 ## Uso de LLM
 
