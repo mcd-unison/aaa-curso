@@ -6,7 +6,7 @@ hero_image: https://github.com/mcd-unison/aaa-curso/raw/main/docs/img/intro-bann
 hero_darken: true
 show_sidebar: false
 ---
-
+<!-- 
 ## Cursos
 
 1. [Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/introduction-to-deep-learning-with-pytorch)
@@ -16,4 +16,4 @@ show_sidebar: false
 
 ## Uso de LLM
 
-*A determinar*
+*A determinar* -->

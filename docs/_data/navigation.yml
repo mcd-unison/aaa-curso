@@ -18,6 +18,10 @@
 - name: Actividades
   link: /#
   dropdown:
+    - name: Actividades especiales LLMs
+      link: /llm_a/
+    - name: Introducción
+      link: /intro_a/
     - name: Aprendizaje no supervisado
       link: /nosupervisado_a/
     - name: Teoría del aprendizaje supervisado 

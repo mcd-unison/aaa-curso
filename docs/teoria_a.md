@@ -6,7 +6,7 @@ hero_image: https://github.com/mcd-unison/aaa-curso/raw/main/docs/img/intro-bann
 hero_darken: true
 show_sidebar: false
 ---
-
+<!-- 
 ## Cursos
 
 
@@ -28,3 +28,4 @@ show_sidebar: false
 
 3. [Regularización](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/regularizacion_logistica.ipynb)
 
+ -->

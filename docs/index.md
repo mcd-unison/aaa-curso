@@ -136,30 +136,3 @@ Las **competencias** que queremos ayudar a desarrollar en los estudiantes a lo l
     
 2. [UCI database repository](https://archive.ics.uci.edu/ml/index.php) Es el sitio más clásico (venerable y feo, por cierto) de conjuntos de datos para tareas de Aprendizaje Automñatico. Es un poco complicada la navegación y entender la organización de los datos, pero es realmente un muy buen sitio para escoger problemas a resolver.
 
----
-
-## Herramientas de enseñanza
-
-Para este curso vamos a contar con diversas herramientas de enseñanza
-que complementen las técnicas vistas en clases presenciales a distancia, 
-y al mismo tiempo se generen una serie de evidencias de las competencias
-desarrolladas a lo largo del curso.
-
-
-![](https://github.com/mcd-unison/aaa-curso/raw/main/docs/img/datacamp.jpg)
-
-
-Este curso tiene el soporte de [DataCamp](https://www.datacamp.com/) , una plataforma intuitiva para el aprendizaje de competencias para ciencia de datos.
-DataCamp cuenta con cursos, proyectos, tutoriales y rutas de aprendizaje para aprender desde los conceptos básicos hasta los temas avanzados de
-ciencia de datos usando R, python y SQL. DataCamp ofrece 350+ cursos por instructores expertos en tópicos como importación de datos, visualización 
-y aprendizaje automático entre otros.
-
-Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la educación alrededor del muno con esta iniciativa libre. Puedes encontrar más información al respecto en
-[datacamp.com/groups/education](datacamp.com/groups/education)
-
-
-![](https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-vert-500x200-2c50-p.png)
-
-[*NVIDIA Deep Learning Institute (DLI)*](https://www.nvidia.com/en-us/training/). Cursos en línea principalmente sobre redes neuronales profundas. Una certificación con una buena introducción al uso de modelos de aprendizaje profundo.
-
-![](https://static.wixstatic.com/media/e097e0_ec221f1cda5d43c68f0f44ef54b7a9c1~mv2.png/v1/fill/w_324,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Orbitware-01.png)

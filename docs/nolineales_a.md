@@ -8,7 +8,7 @@ show_sidebar: false
 ---
 
 
-## Cursos
+<!-- ## Cursos
 
 1. [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 2. [Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
@@ -17,3 +17,4 @@ show_sidebar: false
 ## Miniproyectos
 
 1. [Predicting Movie Rental Durations](https://projects.datacamp.com/projects/1796)
+ -->

@@ -7,7 +7,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-## Cursos
+<!-- ## Cursos
 
 - [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) de DataCamp
 
@@ -19,3 +19,4 @@ show_sidebar: false
 ## Miniproyectos
 
 - [Clustering Antarctic Penguin Species](https://projects.datacamp.com/projects/1809) de DataCamp
+ -->
