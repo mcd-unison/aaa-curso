@@ -46,7 +46,6 @@ show_sidebar: false
 
 ## Algunas libretas con ejemplos
 
-1. [Un ejemplito de redes neuronales en pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/pytorch_ejemplo_simple.ipynb).
 
 2. [Transferencia de aprendizaje simple con pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/transfer_pytorch.ipynb)
 

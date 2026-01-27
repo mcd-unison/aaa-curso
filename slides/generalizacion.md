@@ -59,7 +59,7 @@ Hoy vamos a dedicarnos a ver en que sentido es posible que un modelo ajustado po
 
 # Desigualdad de Hoeffding
 
-$$\Pr[|E_o(h^*) - E_i(h^*)| \geq \epsilon] \leq 2 \exp(-2 \epsilon^2 )$$
+$$\Pr[|E_o(h^*) - E_i(h^*)| \geq \epsilon] \leq 2 \exp(-2 \epsilon^2 M )$$
 
 donde $M$ es el número de datos y $\epsilon$ la diferencia entre el error en muestra y el error fuera de muestra impuesto.
 
@@ -212,13 +212,13 @@ $$\Pr[|E_o(h^*) - E_i(h^*)| \geq \epsilon] \leq 4 m_{\mathcal{H}}(2M) \exp(-\fra
 
 # ¿Y cuantos datos se necesitan para que el aprendizaje exista?
 
-- Vamos a simplificar la desigualdad VC
+Simplificando la desigualdad VC por la funcion de crecimiento
 
 $$\Pr[|E_o(h^*) - E_i(h^*)| \geq \epsilon] \leq \delta$$
 
-$$\delta \approx M^{d_{VC}} e^{-M}$$
+$$\delta \text{ es } O\left(M^{d_{VC}} e^{-M}\right)$$
 
-- De tarea vamos a graficar esa simplificación
+- Vamos a graficar esa simplificación
 
 ---
 
