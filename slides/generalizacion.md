@@ -150,13 +150,15 @@ $$ m_{\mathcal{H}}(M) = \max_{x^{(1)}, \ldots, x^{(M)} \in \mathcal{X}} |\mathca
 
 $$\Pr[|E_o(h^*) - E_i(h^*)| \geq \epsilon] \leq 2 m_{\mathcal{H}}(M) \exp(-2 \epsilon^2 M)$$
 
-pero todavía no lo suficiente, necesitamos más
+$$2 m_{\mathcal{H}}(M) \exp(-2 \epsilon^2 M) \leq 2 \cdot 2^M \exp(-2 \epsilon^2 M)$$
+
+pero todavía no lo suficiente, necesitamos más ya que $m_{\mathcal{H}}(M)$ puede ser exponencial en $M$.
 
 ---
 
-# Vamos a acotar dependiendo de $\mathcal{H}$
+# Vamos a acotar $m_{\mathcal{H}}(M)$
 
-- ¿Que significa $\mathcal{H}$?
+- ¿Que significa $m_{\mathcal{H}}(M)$?
 
 - Ejemplos:
   - Rayos positivos
@@ -166,29 +168,99 @@ pero todavía no lo suficiente, necesitamos más
 
 ---
 
-# ¿Cual es la idea?
+# ¿Y cuando es posible acotar $m_{\mathcal{H}}(M)$?
 
-$$\Pr[|E_o(h^*) - E_i(h^*)| \geq \epsilon] \leq 2 m_{\mathcal{H}}(M) \exp(-2 \epsilon^2 M)$$
+- Si existe un valor $d$ tal que $m_{\mathcal{H}}(d) < 2^d$
+- Entonces, para todo $M > d$, $m_{\mathcal{H}}(M) < 2^M$ 
+- Si $d$ no es infinito, entonces puede haber esperanza de aprender con $\mathcal{H}$
 
-- Probar que para un $\mathcal{H}$ dado, $m_{\mathcal{H}}(M)$ es polinomial, 
-  
-- Conforme $M$ aumente (cantidad de datos en el conjunto de aprendizaje), $m_{\mathcal{H}}(M)$ crece más lento que lo que $\exp(-2 \epsilon^2 M)$ decrece.
+**Pero no está todavía probado que el aprendizaje sea posible.**
 
-- Entonces, el aprendizaje es posible con el $\mathcal{H}$ correcto, y un número de datos de entrenamiento suficientemente alto.
+---
+# La dimensión VC $d_{VC}(\mathcal{H})$
+
+- Ese valor $d$ se llama **dimensión VC** de $\mathcal{H}$, $d_{VC}(\mathcal{H}) = d$
+- $d_{VC}(\mathcal{H})$ es el mayor número de puntos que pueden ser clasificados *sin error* por hipótesis en $\mathcal{H}$
+- Si no existe tal valor, $d_{VC}(\mathcal{H}) = \infty$ y no hay esperanza de aprender con $\mathcal{H}$
+
+**Vamos a llamar $k = d_{VC}(\mathcal{H}) + 1$ el *valor de ruptura* de $\mathcal{H}$**
+
+---
+# La función $B(M, k)$
+
+**$B(M, k)$ es el *máximo número de dicotomías* que pueden generar $M$ puntos con *cualquier modelo* $\mathcal{H}$ con valor de ruptura $k$**
+
+- Si $M < k$, $B(M, k) = 2^M$
+- Si $k = 1$, $B(M, k) = 1$
+- Si $M = 1$, $B(M, k) = 2$, para $k \geq 2$
 
 ---
 
-# La dimensión VC
+# ¿Y esto con que fin?
 
-$d_{VC}(\mathcal{H})$ es el valor más grande de $M$ para el cual $m_{\mathcal{H}}(M) = 2^M$
+Pues lo que vamos a tratar de probar es lo siguiente:
 
-- Para cualquier conjunto $\{x^{(1)}, \ldots, x^{(M)}\} \in \mathcal{X}$
+$$\begin{aligned}
+\Pr[|E_o(h^*) - E_i(h^*)| \geq \epsilon] &\leq 2 m_{\mathcal{H}}(M) \exp(-2 \epsilon^2 M) \\
+2 m_{\mathcal{H}}(M) \exp(-2 \epsilon^2 M) &\leq 2 \cdot B(M, k) \exp(-2 \epsilon^2 M) \\
+2 B(M, k) \exp(-2 \epsilon^2 M) &\leq 2 \cdot f(M, k) \exp(-2 \epsilon^2 M) \\
+2 f(M, k) \exp(-2 \epsilon^2 M) &\leq 2 \cdot 2^M \exp(-2 \epsilon^2 M)
+\end{aligned}$$
 
-- Para cualquier asignación  $f(x) \in \{-1, 1\}$
+Y si logramos demostrar que $f(M, k)$ sea polinomial en $M$, entonces **el aprendizaje es posible**.
 
 ---
+# Acotando $B(M, k)$
 
-# El problema del aprendizaje
+Sea $B(M,k) < 2^M$ con el conjunto $\mathcal{D} = \{x^{(1)}, \ldots, x^{(M)}\} \subset \mathcal{X}$
+
+- Sean los conjuntos $S'$, $S^+$ y $S^-$, una partición de las asignaciones de $\mathcal{D}$ que pueden ser bien clasificados.
+- $S^+$ y $S^-$ tienen asignaciones con la misma clasificación para los primeros $M-1$, pero $x^{(M)}$ es clasificado como $+1$ y $-1$ respectivamente.
+- $S'$ tiene el resto de las asignaciones.
+
+---
+# Acotando $B(M, k)$
+
+- Sean $\alpha = |S'|$ y $\beta = |S^+| = |S^-|$
+- Entonces, 
+  $$B(M, k) = |S'| + |S^+| + |S^-| = \alpha + 2\beta$$
+
+--- 
+# Acotando $B(M, k)$
+
+- Si quito $x^{(M)}$ de $\mathcal{D}$, *al menos* las asignaciones en $S^+$ y $S'$ siguen siendo clasificables por $\mathcal{H}$ en los primeros $M-1$ puntos. 
+  $$\alpha + \beta \leq B(M-1, k)$$
+
+- Si, además, considero ahora una $\mathcal{H}$ con valor de ruptura $k-1$, *al menos* las asignaciones en $S^+$, al ser iguales que en $S^-$ salvo $x^{(M)}$ siguen siendo clasificables. 
+  $$\beta \leq B(M-1, k-1)$$
+
+
+---
+# Encontrando una función f(M, k)
+
+$$B(M, k) \leq B(M-1, k) + B(M-1, k-1)$$
+
+Si $f(M, k) = f(M-1, k) + f(M-1, k-1)$ entonces 
+
+$$B(M, k) \leq f(M, k)$$
+
+**Vamos a proponer:**
+
+$$f(M, k) = \sum_{i=0}^{k-1}{{M \choose i}}$$
+
+---
+# Encontrando una función f(M, k)
+
+$$f(M, k) = \sum_{i=0}^{k-1}{{M \choose i}}$$
+
+- Si $k = 1$, $f(M, k) = 1$
+- Si $M = 1$, $f(M, k) = 2$ para $k \geq 2$
+- Satisface la relación de recurrencia $f(M, k) = f(M-1, k) + f(M-1, k-1)$
+
+$f(M, k)$ es una función acotada por $M^{k-1}$ ($\mathcal{O}(M^{d_{VC}(\mathcal{H})})$)
+
+---
+# El aprendizaje supervisado si es posible
 
 Si $d_{VC}(\mathcal{H})$ finito, entonces $m_{\mathcal{H}}(M)$ es $\mathcal{O}(M^{d_{VC}})$
 

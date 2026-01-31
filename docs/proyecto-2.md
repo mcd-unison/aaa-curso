@@ -12,22 +12,21 @@ Esta es la parte más interesante de un proyecto de aprendizaje automático, y v
 
 Para este proyecto se les pide:
 
-1. Decidir que datos y que procesamiento de va a usar para entrada del algoritmo de aprendizaje. Aplicar toda la etapa de preprocesamiento de manera algoritmica a los datos de entrenamiento y guardarlos en un *data store* o en uno o varios archivos tipo *parquet*. Muy probablemente tengas que decidir en este momento como realizar la validación, si por *K fold validation* o solo una separación de datos de entrenamiento y validación 
+1. Establecer en todo momento un método de trabajo integrando MLOps. Una manera de realizarlo es utilizando DagsHub, pero si tienen otra manera de hacerlo, adelante. Lo importante es que se mantenga un buen control de versiones, y que se registren los experimentos realizados con *mlflow* o con cualquier otro sistema de registro de experimentos. Existen otras opciones comerciales como *Weights & Biases*, *Neptune.ai*, *Comet.ml*, *ray.io*, etc. Si utilizan alguna de estas plataformas, asegúrense de que todo el equipo pueda acceder a los resultados. Igualmente pueden usar la versión abierta de *mlflow* y guardar la base de datos de experimentos en un servidor compartido con versionado de datos con DVC (en combinación con *git*).
+
+2. Decidir que datos y que procesamiento de va a usar para entrada del algoritmo de aprendizaje. Aplicar toda la etapa de preprocesamiento de manera algorítmica a los datos de entrenamiento y guardarlos en un *data store* o en uno o varios archivos tipo *parquet*. Muy probablemente tengas que decidir en este momento como realizar la validación, si por *K fold validation* o solo una separación de datos de entrenamiento y validación 
 
 
-2. Realizar una libreta de jupyter con el desarrollo de un modelo muy sencillo (regresión lineal si es un problema de regresión o regresión logística si es un problema de clasificación). Ajustar hiperparámetros. Usar los resultados para ganar comprensión en el problema y proponer métodos de preprocesamiento y selección de variables. Realizar curvas de aprendizaje, y proponer que se necesita (más datos, modelos más complicados, aumentar la regularización, ...). Presentar los resultados en función de las métricas establecidas en el proyecto anterior. 
+3. Realizar un modelo muy sencillo (regresión lineal si es un problema de regresión o regresión logística si es un problema de clasificación). Ajustar hiperparámetros. Usar los resultados para ganar comprensión en el problema y proponer métodos de preprocesamiento y selección de variables. Realizar curvas de aprendizaje, y proponer que se necesita (más datos, modelos más complicados, aumentar la regularización, ...). Presentar los resultados en función de las métricas establecidas en el proyecto anterior. 
 
-3. Desarrollar una libreta donde se prueben con diferentes modelos y parámetros utilizando algún método de búsqueda de hiperparámetros y modelos, tal como `gridsearch` de `sklearn`, `optuna` o `hyperopt`. Presentar los resultados en forma de una tabla con los mejores resultados por modelo. Probar al menos los siguientes modelos:
+4. Probar diferentes modelos y parámetros utilizando algún método de búsqueda de hiperparámetros y modelos, tal como `gridsearch` de `sklearn` u `optuna`. Presentar los resultados en forma de una tabla con los mejores resultados por modelo. Probar al menos los siguientes modelos:
     - Regresión lineal o logística
     - Máquinas de vectores de soporte
     - Bosques aleatorios
     - *Gradient boosting*
   
-    Utilizar DagsHub si es un equipo de varios y definir claramente una nomenclatura para experimentos y para corridas de *mlflow*, así como los parámetros, métricas y artefactos que se van a guardar. Documentar el proceso, ya sea en la misma libreta o en un documento de información del proyecto, para que, si alguien continua con el proyecto, siga con los linemientos establecidos como buenas prácticas de desarrollo de modelos.
-    
-    Agregar curvas de aprendizaje y establecer porqué escoger un modelo sobre otro. Posiblemente el modelo con menor error de pérdida podría no ser el más adecuado si se consideran otros factores. 
+    Guardar toda la información en el registro de experimentos. Agregar métricas significativas y curvas de aprendizaje.
 
+5. ¿Los resultados son buenos? ¿Hay resultados de problemas similares reportados en la literatura? ¿Porqué escoger un modelo sobre otro? ¿El modelo final se podría poner en producción? Agregar un documento de tipo *markdown* con la respuesta a estas preguntas basandose en los resultados que se pueden consultar de tus experimentos registrados, dejando claro cual va a ser el modelo a retener.
 
-4. ¿Los resultados son buenos? ¿Hay resultados de problemas similares reportados en la literatura? ¿El modelo final se podría poner en producción o que se necesitaría hacer para tener un modelo aceptable? Agrega un documento de tipo *markdown* donde respondas estas preguntas basandote en los resultados que se pueden consultar de tus experimentos registrados en *mlflow*, dejando claro cual va a ser el modelo a retener.
-
-5. ¿Es suficiente o hay justificación para implementar un modelo neuronal con transferencia de aprendizaje? Si fuera el caso, revisa en la literatura y propón cual arquitectura, cual modelo base, y como habría que proceder de ser el caso. Si no es necesario, justifica las razones para quedarse con la solución obtenida. Escribe todo en un documento de tipo *markdown*.
+6. ¿Es suficiente o hay justificación para implementar un modelo neuronal con transferencia de aprendizaje? ¿Justificaría el uso de una LLM? Si fuera el caso, revisa en la literatura y propón cual arquitectura, cual modelo base, y como habría que proceder de ser el caso. Si no es necesario, justifica las razones para quedarse con la solución obtenida. Escribe todo en un documento de tipo *markdown*.

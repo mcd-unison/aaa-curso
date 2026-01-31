@@ -31,7 +31,7 @@ Julio Waissman
 La hipótesis de base es:
 $$h_\theta(x) = w_1 x_1 + \cdots + w_n x_n + b$$
 
-- $\theta = (w_1, \ldots, w_n, b) \in \mathrm(R)^{n+1}$
+- $\theta = (w_1, \ldots, w_n, b) \in \mathrm{R}^{n+1}$
 - $w = (w_1, \ldots, w_n)$ vector de pesos (*weights*) y $b$ el sesgo (*bias*)
 
 ---
@@ -73,12 +73,12 @@ def grad_desc(w0, b0, X, y, alpha, max_epoch):
   e_hist = []
   for _ in range(max_epoch):
     y_est = X @ w0 + b
-    e = np.square(y - y_est).mean() / (2 * M)
-    dw = -(X.T @ (y - y_est)) / M
-    db = -(y - y_est) / M
+    error = y - y_est
+    dw = -(X.T @ error) / M
+    db = -error.mean()
     w -= alpha * dw
     b -= alpha * db
-    e_hist.append(e)
+    e_hist.append(np.square(error).mean() / 2)
   return w, b, e_hist
 ```
 ---
