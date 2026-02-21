@@ -14,7 +14,7 @@ show_sidebar: false
 
 2. [¿En que sentido el aprendizaje supervisado es posible?](https://github.com/mcd-unison/aaa-curso/raw/main/slides/generalizacion.pdf).
 
-4. [Mi primer modelo de aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ejemplo_modelo.pdf) y como saber si mi modelo está bien usando diferentes métricas como [coeficiente de determinación](https://en.wikipedia.org/wiki/Coefficient_of_determination), [matrices de confusión](https://en.wikipedia.org/wiki/Confusion_matrix) o [la curva ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+4. [Mi primer modelo de aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ejemplo_modelo.pdf) 
 
 
 5. ¿Y porque esas funciones, y esas funciones de costo? [Una presentación sobre GLM](https://github.com/mcd-unison/aaa-curso/raw/main/slides/glm.pdf)
@@ -22,6 +22,12 @@ show_sidebar: false
 6. [Documento sobre GLM](https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf) del curso de Andrew Ng de Stanford.
 
 7. La página de wikipedia de [la familia exponencial de distribuciones de probabilidad](https://en.wikipedia.org/wiki/Exponential_family).
+
+8. [Una presentación sobre métricas](https://github.com/mcd-unison/aaa-curso/raw/main/slides/metricas.pdf) o como saber si mi modelo está bien usando diferentes métricas como [coeficiente de determinación](https://en.wikipedia.org/wiki/Coefficient_of_determination), [matrices de confusión](https://en.wikipedia.org/wiki/Confusion_matrix) o [la curva ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+
+8. [Presentación sobre validación](http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect13.pdf) de [M. Magdon-Ismail](http://www.cs.rpi.edu/~magdon/)
+
+9.  [Introducción a las MLOps](https://github.com/mcd-unison/aaa-curso/raw/main/slides/mlflow_recortes.pdf)
 
 
 5. [Presentación sobre generación de características (del curso de IA de Stanford)](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf)
