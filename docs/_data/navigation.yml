@@ -3,18 +3,18 @@
   dropdown:
     - name: Aprendizaje no supervisado
       link: /nosupervisado/
-    - name: Teoría del aprendizaje supervisado 
+    - name: Introducción al aprendizaje supervisado 
       link: /teoria/
-    - name: Modelos lineales de aprendizaje supervisado
+    - name: Modelos lineales y redes densas
       link: /lineales/
-    - name: Modelos no lineales de aprendizaje supervisado
+    - name: Modelos no lineales 
       link: /nolineales/
     - name: Redes neuronales
       link: /rn/
-    - name: Operaciones de aprendizaje máquina (MLOps)
-      link: /mlops/
     - name: Series de tiempo
       link: /series/
+    - name: Operaciones de aprendizaje máquina (MLOps)
+      link: /mlops/
 - name: Actividades
   link: /#
   dropdown:
