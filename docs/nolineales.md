@@ -31,3 +31,7 @@ show_sidebar: false
 ## Otros modelos de aprendizaje
 
 1. K Vecinos próximos. [Una presentación de D. Sontag de la NYU](https://github.com/mcd-unison/aaa-curso/raw/main/slides/knn-ny.pdf) y [otra presentación de M Kang de la UNLV](https://mkang.faculty.unlv.edu/teaching/CS489_689/05.KNN.pdf)
+
+## Libretas
+
+1. [Ejemplo de optimización de hiperparámetros con Optuna y MLflow](https://github.com/mcd-unison/aaa-curso/raw/main/ejemplos/ejemplo_optuna.ipynb).
