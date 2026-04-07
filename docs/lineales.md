@@ -11,7 +11,7 @@ show_sidebar: false
 
 1. [Presentación sobre generación de características (del curso de IA de Stanford)](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf)
 
-2. [Una presentación sobre las nociones básicas de redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/neural-networks.pdf) así como el [importante algoritmo de *backpropagation*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/backpropagation.pdf). También un [video muy bueno](https://www.youtube.com/watch?v=eNIqz_noix8&t=1s) sobre *b-prop* hecho por *Dot CSV* un youtuber muy recomendable que habla sobre redes neuronales profundas.
+2. [Una presentación sobre las nociones básicas de redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/neural-networks.pdf) así como la [diferenciación automática](https://github.com/mcd-unison/aaa-curso/raw/main/slides/diferenciacion-aut.pptx). También un [video muy bueno](https://www.youtube.com/watch?v=eNIqz_noix8&t=1s) sobre *b-prop* hecho por *Dot CSV* un youtuber muy recomendable que habla sobre redes neuronales profundas.
 
 ## Modelos lineales generativos
 
