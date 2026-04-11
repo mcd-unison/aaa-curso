@@ -35,8 +35,9 @@ show_sidebar: false
 
 3. [Una libreta de máquinas de vectores de soporte](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.07-Support-Vector-Machines.ipynb)
 
-4. [Un ejemplito de redes neuronales en pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/pytorch_ejemplo_simple.ipynb).
+4. [Una intro a pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/tensor_tutorial.ipynb).
 
+5. [Un ejemplito de redes neuronales en pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/pytorch_ejemplo_simple.ipynb).
 
 
 
