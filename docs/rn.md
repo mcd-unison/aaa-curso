@@ -13,25 +13,19 @@ show_sidebar: false
 
 2. Un [excelente curso](http://introtodeeplearning.com) de introducción al aprendizaje profundo del MIT con videos. transparencias y código.
 
-3. No se puede vivir y hacer *deep learning* si no utilizamos regularmente el sitio de [*papers with code*](https://paperswithcode.com). Código, tutriales, onjuntos de datos, modelos preentrenados,...
+3. [NeurIPS](https://nips.cc), la conferencia más importante en redes neuronales y en general en aprendizaje automñatico.
 
-4. [NeurIPS](https://nips.cc), la conferencia más importante en redes neuronales y en general en aprendizaje automñatico.
+4. [Journal of Machine Learning Research](https://jmlr.org) es una publicación libre muy completa sobre el último grito de la moda en ML. Muy buenos artículos, pero ya bastante más densos que en los otros recursos listados. 
 
-5. [Journal of Machine Learning Research](https://jmlr.org) es una publicación libre muy completa sobre el último grito de la moda en ML. Muy buenos artículos, pero ya bastante más densos que en los otros recursos listados. 
+5. Para usar transformadores, uno de los lugares con los mejores modelos preentrenados es la compañía [*Hugging Face*](https://huggingface.co). Muchos recursos en código abierto.
 
-6. Para usar transformadores, uno de los lugares con los mejores modelos preentrenados es la compañía [*Hugging Face*](https://huggingface.co). Muchos recursos en código abierto.
+6. [Un listado de conjuntos de datos](https://datasets.activeloop.ai/docs/ml/datasets/)n que se utilizan muy intensivamente en tareas de aprendizaje profundo. 
 
-7. Otras compañías con recursos en código abierto, modelos preentrenados, librerías y *frameworks* que vale la pena estar revisando son [OpenAI](https://openai.com) (cada vez menos abierta y cada vez más *for profit*), [Meta AI](https://ai.facebook.com), ahora ya con licencias tipo MIT, y [Google Research](https://research.google).
-
-8. [Un listado de conjuntos de datos](https://datasets.activeloop.ai/docs/ml/datasets/)n que se utilizan muy intensivamente en tareas de aprendizaje profundo. 
-
-## Redes neuronales: nociones básicas 
-
-1. [Una presentación sobre las nociones básicas de redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/neural-networks.pdf) así como el [importante algoritmo de *backpropagation*](https://github.com/mcd-unison/aaa-curso/raw/main/slides/backpropagation.pdf). También un [video muy bueno](https://www.youtube.com/watch?v=eNIqz_noix8&t=1s) sobre *b-prop* hecho por *Dot CSV* un youtuber muy recomendable que habla sobre redes neuronales profundas.
+## Redes neuronales: nociones generales 
    
-2. [*An overview of gradient descent optimization algorithms*](https://www.ruder.io/optimizing-gradient-descent/) de Sebastian Ruder.
+1. [*An overview of gradient descent optimization algorithms*](https://www.ruder.io/optimizing-gradient-descent/) de Sebastian Ruder. Y para completar, el algoritmo de *lion* que es el último grito de la moda en optimización de redes neuronales: [*The Lion optimizer*](https://arxiv.org/abs/2302.06675).
    
-3. [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) por Andrej Karpathy.
+2. [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) por Andrej Karpathy.
    
 
 ## Redes Convolucionales
@@ -42,7 +36,6 @@ show_sidebar: false
 
 3. Una presentación sobre [transferencia del aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pptx) (tambien [en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pdf)). Tambien [una entrada de Jordan Urías sobre NST](https://jjups96.github.io/fast-style-transfer/) muy bien explicado
 
-4. Un [recurso](https://arxiv.org/abs/2303.17580) que vale la pena darle una ojeada y ver que se puede replicar. Aquí [la liga a el sistema](https://huggingface.co/spaces/microsoft/HuggingGPT), solo se necesita estar registrado en *OpenAI* y en *HF Spaces*.
 
 ## Algunas libretas con ejemplos
 
