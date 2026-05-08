@@ -15,7 +15,7 @@ show_sidebar: false
 
 3. [NeurIPS](https://nips.cc), la conferencia más importante en redes neuronales y en general en aprendizaje automñatico.
 
-4. [Journal of Machine Learning Research](https://jmlr.org) es una publicación libre muy completa sobre el último grito de la moda en ML. Muy buenos artículos, pero ya bastante más densos que en los otros recursos listados. 
+4. [Journal of Machine Learning Research](https://jmlr.org) es una publicación libre muy completa sobre el último grito de la moda en ML. Muy buenos artículos, pero ya bastante
 
 5. Para usar transformadores, uno de los lugares con los mejores modelos preentrenados es la compañía [*Hugging Face*](https://huggingface.co). Muchos recursos en código abierto.
 
@@ -24,7 +24,7 @@ show_sidebar: false
 ## Redes neuronales: nociones generales 
    
 1. Una [presentación sobre descenso de gradiente generada](https://github.com/mcd-unison/aaa-curso/raw/main/slides/des-grad.pdf) y otra sobre el algoritmo [LION](https://github.com/mcd-unison/aaa-curso/raw/main/slides/Lion.pdf)
-2. [*An overview of gradient descent optimization algorithms*](https://www.ruder.io/optimizing-gradient-descent/) de Sebastian Ruder. Y para completar, el algoritmo de *lion* que es el último grito de la moda en optimización de redes neuronales: [*The Lion optimizer*](https://arxiv.org/abs/2302.06675).
+2. [*An overview of gradient descent optimization algorithms*](https://wwwf
    
 3. [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) por Andrej Karpathy.
    
