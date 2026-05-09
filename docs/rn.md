@@ -24,9 +24,8 @@ show_sidebar: false
 ## Redes neuronales: nociones generales 
    
 1. Una [presentación sobre descenso de gradiente generada](https://github.com/mcd-unison/aaa-curso/raw/main/slides/des-grad.pdf) y otra sobre el algoritmo [LION](https://github.com/mcd-unison/aaa-curso/raw/main/slides/Lion.pdf)
-2. [*An overview of gradient descent optimization algorithms*](https://wwwf
    
-3. [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) por Andrej Karpathy.
+2. [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) por Andrej Karpathy.
    
 
 ## Redes Convolucionales
@@ -37,29 +36,16 @@ show_sidebar: false
 
 3. Una presentación sobre [transferencia del aprendizaje](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pptx) (tambien [en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/transfer_learning.pdf)). Tambien [una entrada de Jordan Urías sobre NST](https://jjups96.github.io/fast-style-transfer/) muy bien explicado
 
+4. [Modelos generativos](https://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf). Una presentación muy buena del MIT.
+
+5. [Aprendizaje auto supervisado](https://github.com/mcd-unison/aaa-curso/raw/main/slides/Self-Supervised_Learning_Decoded.pdf) ¿Qué es eso?
 
 ## Algunas libretas con ejemplos
 
+1. [El hola mundo de las redes neuronales en pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/pytorch_ejemplo_simple.ipynb)
 
 2. [Transferencia de aprendizaje simple con pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/transfer_pytorch.ipynb)
 
 3. [Transferencia de estilo en imágenes con pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/nst_pytorch.ipynb) 
 
-4. [Detección de objetos en pyTorch, Faster R-CNN y Mask R-CNN](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/deteccion_objetos_pytorch.ipynb) 
-
-5. [Otro modelo de detección de objetos](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/YOLOv12_fine_tuning.ipynb), pero con el modelo más popular, YOLO. 
-
-## Aprendizaje auto-supervisado (*Self supervised learning)
-
-1. [Una presentación reciente muy orientada a visión](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ssl-Johnson-22.pdf) por [Justin Johnson](https://web.eecs.umich.edu/~justincj/) de U. Mich.
-
-2. [Otra presentación](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ssl-Wang-19.pdf) por [Naiyan Wang](https://winsty.net). Las dos son bastante claras en las ideas sin ir al detalle.
-
-3. [Word Embeddings (Algorithms for NLP)](http://demo.clab.cs.cmu.edu/11711fa18/slides/FA18%2011-711%20lecture%206%20--%20Word%20Embeddings%202.pdf)
-
-4. ¿Porque es tan importante el aprendizaje autosupervisado en NLP? Leer el artículo [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
-   
-5. Una entrada de blog muy interesante de Yann LeCun: [*Self-supervised learning: The dark matter of intelligence*](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
-
-6. [Otra presentación muy extensa](https://github.com/mcd-unison/aaa-curso/raw/main/slides/ssl-Vakanski-20.pdf) de [Alex Vakanski](https://www.uidaho.edu/engr/our-people/alex-vakanski). Solo si les interesa mucho el tema y se quieren mirar toda la presentación (básicamente lo mismo que la presentación 1 pero con lujo de detalle).
-
+4. [Detección de objetos usando YOLO](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/YOLOv12_fine_tuning.ipynb) 
