@@ -40,6 +40,12 @@ show_sidebar: false
 
 5. [Aprendizaje auto supervisado](https://github.com/mcd-unison/aaa-curso/raw/main/slides/Self-Supervised_Learning_Decoded.pdf) ¿Qué es eso?
 
+## Redes neuronales es series de tiempo
+
+1. Modelos secuenciales con redes neuronales, con un [presentación de los modelos de base](https://github.com/mcd-unison/aaa-curso/raw/main/slides/RNN-slides.pptx) y [la misma presentación en pdf](https://github.com/mcd-unison/aaa-curso/raw/main/slides/RNN-slides.pdf).
+
+2. La arquitecura de [Temporal Fusion Transformers (TFT)](https://arxiv.org/abs/1912.09363) y dos presentaciones generadas con NotebookLM. [Esta que está en español pero me parece como de vendedor](https://github.com/mcd-unison/aaa-curso/raw/main/slides/TFT_Transparent_Forecasting.pdf), y [otra en inglés que tampoco me gustó completamente](https://github.com/mcd-unison/aaa-curso/raw/main/slides/TFT_Architectural_Deconstruction.pdf) pero estan ambas mas o menos potables.
+
 ## Algunas libretas con ejemplos
 
 1. [El hola mundo de las redes neuronales en pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/pytorch_ejemplo_simple.ipynb)
@@ -49,3 +55,5 @@ show_sidebar: false
 3. [Transferencia de estilo en imágenes con pyTorch](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/nst_pytorch.ipynb) 
 
 4. [Detección de objetos usando YOLO](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/YOLOv12_fine_tuning.ipynb) 
+
+5. Dos libretas ilustrativas: [Redes Neuronales Recurrentes (RNN) con numpy](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/Estados-ocultos.ipynb) y [El problema del gradiente en las RNN vainilla](https://colab.research.google.com/github/mcd-unison/aaa-curso/blob/main/ejemplos/vanish-grad.ipynb). Las dos en `numpy` para ilustrar como funcionan las redes neuronales recursivas.

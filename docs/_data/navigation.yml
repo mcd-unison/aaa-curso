@@ -9,10 +9,10 @@
       link: /lineales/
     - name: Modelos no lineales 
       link: /nolineales/
-    - name: Redes neuronales
-      link: /rn/
     - name: Series de tiempo
       link: /series/
+    - name: Redes neuronales
+      link: /rn/
     - name: Operaciones de aprendizaje máquina (MLOps)
       link: /mlops/
 - name: Actividades
