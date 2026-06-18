@@ -37,14 +37,16 @@ show_sidebar: false
 2. [Otro ejemplito en DagsHub con mlflow](https://dagshub.com/juliowaissman/toyota).
 
 3. [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/). Un esquema lógico y sencillo para plantear proyectos de ciencia de datos en python en forma genñerica.
+
+4. [Un repositorio sobre como poner modelos y usarlos](https://github.com/juliowaissman/mlflow3X-serve-ejemplo). 
    
-4. [Un curso de DVC](https://learn.iterative.ai) para usar [DVC](https://dvc.org) en todas sus etapas.
+5. [Un curso de DVC](https://learn.iterative.ai) para usar [DVC](https://dvc.org) en todas sus etapas.
 
-5. [Made with ML](https://madewithml.com). Un curso muy interesante con una prespectiva industrial del aprendizaje automático. Mucho le dedica a las MLOps.
+6. [Made with ML](https://madewithml.com). Un curso muy interesante con una prespectiva industrial del aprendizaje automático. Mucho le dedica a las MLOps.
 
-6. [Ejemplo de uso de *Ray Serve* para desplegar modelos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
+7. [Ejemplo de uso de *Ray Serve* para desplegar modelos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
 
-7. [Ejemplo de uso de *Evidently* para monitorear los datos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
+8. [Ejemplo de uso de *Evidently* para monitorear los datos](https://github.com/anyscale/academy/blob/main/ray-serve/e2e/tutorial.ipynb)
 
 
 ## Herramientas para MLOps
